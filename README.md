@@ -45,4 +45,15 @@ node scripts/build-index.mjs --out index.json
 node scripts/build-index.mjs --check          # 用 DSH 官方校验器验一遍
 ```
 
-每天 03:17 UTC 由 GitHub Actions 自动重建；也可在 Actions 页手动触发。
+## 自动更新
+
+`.github/workflows/update-index.yml` 规划为每天 03:17 UTC 重建，但推送它的 OAuth token 缺
+`workflow` scope，目前**没有**推上去（GitHub 会拒绝 `refusing to allow an OAuth App to create or
+update workflow`）。补上权限后即可：
+
+```sh
+gh auth refresh -s workflow      # 浏览器确认一次
+git -C . add .github && git commit -m "ci: daily refresh" && git push
+```
+
+在那之前，索引靠手动重建：`node scripts/build-index.mjs --out index.json && git commit -am "chore: refresh" && git push`。
