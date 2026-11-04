@@ -5,8 +5,8 @@
   "zh": "DSH 社区插件大全"
  },
  "description": {
-  "en": "Generated from the awesome-dsh-plugin catalog (8489 entries): npm bundles whose manifest declares dsh.bundle. Inclusion is not a security review.",
-  "zh": "由 awesome-dsh-plugin 目录（8489 条）生成：只收录 manifest 声明了 dsh.bundle 的 npm 组合包。收录不代表安全审查。"
+  "en": "Generated from the awesome-dsh-plugin catalog (8655 entries): npm bundles whose manifest declares dsh.bundle. Inclusion is not a security review.",
+  "zh": "由 awesome-dsh-plugin 目录（8655 条）生成：只收录 manifest 声明了 dsh.bundle 的 npm 组合包。收录不代表安全审查。"
  },
  "metadata": {
   "categories": {
@@ -326,8 +326,8 @@
    },
    "versions": [
     {
-     "version": "0.11.8",
-     "publishTimestamp": 1793077859,
+     "version": "0.13.1",
+     "publishTimestamp": 1793766262,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -492,8 +492,8 @@
    "homepage": "https://github.com/99galaxy/dsh-plugin-market",
    "author": "99galaxy",
    "description": {
-    "en": "Browse the awesome-dsh-plugin catalog from a dedicated page opened through the DSH left sidebar. Search, filter by category or installed state, and sort by stars, downloads, name or date added. Three tabs show all, installed and updatable plugins, with a separate count when update status cannot be determined. Install into the active Web or Desktop profile using the package manager supplied by DSH, while preserving disabled bundles. Reload the profile through HMR when available, with restart guidance otherwise. Installed state is isolated per profile, installation and reload requests are mutually exclusive, and pagination keeps the submitted search. Expired catalog and installed-state snapshots are served immediately while refreshing in the background. Registry updates install the exact catalog version; Git updates force source resolution. The catalog is cached locally for one hour, with mirror, CDN and npm fallbacks.",
-    "zh": "从 DSH 左侧栏打开独立的插件市场页面，浏览 awesome-dsh-plugin 目录。支持按分类或安装状态筛选、按名称或简介搜索，以及按 Star、下载量、名称或收录时间排序；三个标签分别显示全部插件、已安装插件和可更新插件，并单独提示无法判断更新状态的数量。自动识别当前 Web 或桌面 profile，使用 DSH 提供的包管理器一键安装和更新，保留其他插件的停用状态。支持通过 HMR 重载 profile，不可用时提示重启。各 profile 的安装状态独立，安装与重载互斥，分页保持已提交的搜索条件。目录与安装状态快照过期时先显示本地内容并在后台刷新。npm 插件按目录目标版本精确更新，Git 插件强制重新解析来源。目录在本地缓存一小时，官方源不可达时依次回退到镜像、CDN 与 npm。"
+    "en": "Browse the awesome-dsh-plugin catalog from a dedicated page opened through the DSH left sidebar. Search, filter by category or installed state, and sort by stars, downloads, name or date added. Three tabs show all, installed and updatable plugins, with a separate count when update status cannot be determined. Install into the active Web or Desktop profile using the package manager supplied by DSH, while preserving disabled bundles. Reload the profile through HMR when available, with restart guidance otherwise. Installed state is isolated per profile, installation and reload requests are mutually exclusive, and pagination keeps the submitted search. Expired catalog and installed-state snapshots are served immediately while refreshing in the background. Unversioned npm installs resolve the official registry latest tag to an exact version, and confirm the installed version before reporting success. Registry updates install the exact catalog version; Git updates force source resolution. The catalog is cached locally for one hour, with mirror, CDN and npm fallbacks.",
+    "zh": "从 DSH 左侧栏打开独立的插件市场页面，浏览 awesome-dsh-plugin 目录。支持按分类或安装状态筛选、按名称或简介搜索，以及按 Star、下载量、名称或收录时间排序；三个标签分别显示全部插件、已安装插件和可更新插件，并单独提示无法判断更新状态的数量。自动识别当前 Web 或桌面 profile，使用 DSH 提供的包管理器一键安装和更新，保留其他插件的停用状态。支持通过 HMR 重载 profile，不可用时提示重启。各 profile 的安装状态独立，安装与重载互斥，分页保持已提交的搜索条件。目录与安装状态快照过期时先显示本地内容并在后台刷新。未指定版本的 npm 安装先解析官方 registry 的 latest，再按确切版本安装并核验落盘版本。npm 插件按目录目标版本精确更新，Git 插件强制重新解析来源。目录在本地缓存一小时，官方源不可达时依次回退到镜像、CDN 与 npm。"
    },
    "repository": {
     "url": "https://github.com/99galaxy/dsh-plugin-market"
@@ -732,8 +732,8 @@
    },
    "versions": [
     {
-     "version": "1.0.8",
-     "publishTimestamp": 1793684801,
+     "version": "1.0.9",
+     "publishTimestamp": 1793755158,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1399,8 +1399,8 @@
    },
    "versions": [
     {
-     "version": "0.1.38",
-     "publishTimestamp": 1793458504,
+     "version": "0.1.39",
+     "publishTimestamp": 1793788008,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1428,8 +1428,8 @@
    },
    "versions": [
     {
-     "version": "0.1.38",
-     "publishTimestamp": 1793458507,
+     "version": "0.1.39",
+     "publishTimestamp": 1793787989,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1457,8 +1457,8 @@
    },
    "versions": [
     {
-     "version": "0.1.38",
-     "publishTimestamp": 1793458508,
+     "version": "0.1.39",
+     "publishTimestamp": 1793788063,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1486,8 +1486,8 @@
    },
    "versions": [
     {
-     "version": "0.1.38",
-     "publishTimestamp": 1793458530,
+     "version": "0.1.39",
+     "publishTimestamp": 1793787993,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1573,8 +1573,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793363637,
+     "version": "1.7.1",
+     "publishTimestamp": 1793788163,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -1979,8 +1979,8 @@
    },
    "versions": [
     {
-     "version": "0.1.39",
-     "publishTimestamp": 1793637566,
+     "version": "0.1.41",
+     "publishTimestamp": 1793773843,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2008,8 +2008,8 @@
    },
    "versions": [
     {
-     "version": "2.6.0",
-     "publishTimestamp": 1793339232,
+     "version": "2.6.1",
+     "publishTimestamp": 1793762423,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2124,8 +2124,8 @@
    },
    "versions": [
     {
-     "version": "0.6.1",
-     "publishTimestamp": 1793346526,
+     "version": "0.6.2",
+     "publishTimestamp": 1793778982,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2822,6 +2822,64 @@
    }
   },
   {
+   "name": "@bushizhanghan/dsh-compaction-audit",
+   "homepage": "https://github.com/bushizhanghan/dsh-compaction-audit",
+   "author": "bushizhanghan",
+   "description": {
+    "en": "Audit what context compaction actually lost. Reads the raw session event log and checks session-constraint survival (the standing instructions the user gave — do-not-X, must-Y, only-in-Z — and whether the summary still carries them; arXiv 2608.11242 measured ~17% survival across compactors), summary hallucination (paths, versions, ports and identifiers the summary invents that were never in the history it replaced), ghost references (\"see above\" pointing at removed text), token accounting (a summary nearly as large as what it claims to free), and unaccounted prunes. Four agent tools including a cross-session sweep that ranks conversations by how much compaction hurt them. Deterministic — no LLM, so a wrong answer is a rule bug with a name.",
+    "zh": "压缩质量审计：审出上下文压缩到底丢了什么。读原始会话事件日志，检查会话约束幸存率（用户给的常驻指令—— 不要X、必须Y、只准Z——摘要是否还带着；arXiv 2608.11242 实测各压缩器平均只保留 17%）、摘要幻觉（摘要里 出现了历史中从不存在的路径/版本/端口/标识符）、幽灵引用（\"如上所述\"指向已不在上下文的内容）、token 记账（摘要几乎和它声称释放的一样大）、无据裁剪。四个 agent 工具，含跨会话扫描并按受损程度排序。纯 确定性，不调 LLM——答错就是规则有 bug，有名字可查。"
+   },
+   "repository": {
+    "url": "https://github.com/bushizhanghan/dsh-compaction-audit"
+   },
+   "versions": [
+    {
+     "version": "0.1.2",
+     "publishTimestamp": 1793760601,
+     "source": {
+      "type": "npm",
+      "registry": "https://registry.npmmirror.com"
+     }
+    }
+   ],
+   "metadata": {
+    "category": "dev",
+    "sortKeys": {
+     "stars": 0,
+     "downloads": 347
+    }
+   }
+  },
+  {
+   "name": "@bushizhanghan/dsh-context-budget",
+   "homepage": "https://github.com/bushizhanghan/dsh-context-budget",
+   "author": "bushizhanghan",
+   "description": {
+    "en": "Audit how each turn's context budget is spent. Breaks down what a turn pays for AGENTS.md, the skill catalog, tool schemas and runtime context; flags repeated injection of unchanged content as pure waste; ranks skill-catalog bloat (with 60+ skills installed, how many tokens of descriptions does the model read every turn) and tool-schema inflation per plugin. Deterministic — no LLM, so a wrong answer is a rule bug with a name. Four tools including a cross-session sweep.",
+    "zh": "每轮上下文预算审计：拆解一轮对话在 AGENTS.md、技能目录、工具 schema 与运行时上下文上各花了多少；把\"内容 没变却每轮重发\"标为纯浪费；排名技能目录膨胀（装 60+ 个技能时，模型每轮要读多少 token 的描述）与各插件的 工具 schema 占比。纯确定性，不调 LLM。四个工具，含跨会话扫描。"
+   },
+   "repository": {
+    "url": "https://github.com/bushizhanghan/dsh-context-budget"
+   },
+   "versions": [
+    {
+     "version": "0.1.1",
+     "publishTimestamp": 1793754013,
+     "source": {
+      "type": "npm",
+      "registry": "https://registry.npmmirror.com"
+     }
+    }
+   ],
+   "metadata": {
+    "category": "dev",
+    "sortKeys": {
+     "stars": 0,
+     "downloads": 387
+    }
+   }
+  },
+  {
    "name": "@bushizhanghan/dsh-openfoam-doctor",
    "homepage": "https://github.com/bushizhanghan/dsh-openfoam-doctor",
    "author": "bushizhanghan",
@@ -2834,8 +2892,8 @@
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1792838667,
+     "version": "0.1.5",
+     "publishTimestamp": 1793775647,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2863,8 +2921,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1792838737,
+     "version": "0.1.4",
+     "publishTimestamp": 1793759118,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2892,8 +2950,8 @@
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1792838657,
+     "version": "0.1.3",
+     "publishTimestamp": 1793754962,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2921,8 +2979,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1793086746,
+     "version": "0.1.6",
+     "publishTimestamp": 1793758695,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2934,6 +2992,35 @@
     "sortKeys": {
      "stars": 0,
      "downloads": 737
+    }
+   }
+  },
+  {
+   "name": "@bushizhanghan/dsh-routing-forensics",
+   "homepage": "https://github.com/bushizhanghan/dsh-routing-forensics",
+   "author": "bushizhanghan",
+   "description": {
+    "en": "Forensic analysis of past model-routing decisions. Replays each session, classifies every turn's task complexity from its request shape (deterministic, no LLM), and reports two kinds of waste: an expensive model on cheap work (the difference is measurable), and a cheap model on expensive work that failed on its own merits — where every retry re-sends the whole context, so the downgrade cost more than the upgrade. Distinguishes provider-capacity retries (RATE_LIMIT/TIMEOUT/TRANSPORT) from model failures so it does not cry wolf. Derives routing rules from the evidence, priced against a built-in per-million table.",
+    "zh": "模型路由浪费取证：回放每个会话，按请求形状确定性判定每轮任务复杂度（不调 LLM），报两类浪费——贵模型干 便宜活（差额可计算），以及便宜模型干贵活且因自身能力失败（每次重试重发整个上下文，比直接升级更贵）。会 区分服务商容量限制（RATE_LIMIT/TIMEOUT/TRANSPORT）与模型能力失败，所以不会天天喊狼来了。并从证据推导路由 规则，按内置每百万 token 价目表估算金额。"
+   },
+   "repository": {
+    "url": "https://github.com/bushizhanghan/dsh-routing-forensics"
+   },
+   "versions": [
+    {
+     "version": "0.1.2",
+     "publishTimestamp": 1793760616,
+     "source": {
+      "type": "npm",
+      "registry": "https://registry.npmmirror.com"
+     }
+    }
+   ],
+   "metadata": {
+    "category": "usage",
+    "sortKeys": {
+     "stars": 1,
+     "downloads": 385
     }
    }
   },
@@ -2950,8 +3037,8 @@
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1792838695,
+     "version": "0.1.3",
+     "publishTimestamp": 1793752563,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -2992,6 +3079,35 @@
     "sortKeys": {
      "stars": 3,
      "downloads": 2072
+    }
+   }
+  },
+  {
+   "name": "@bushizhanghan/dsh-workspace-switch-cost",
+   "homepage": "https://github.com/bushizhanghan/dsh-workspace-switch-cost",
+   "author": "bushizhanghan",
+   "description": {
+    "en": "Quantify what switching projects costs. Measures each workspace's cold-start overhead (AGENTS.md + skill catalog + tool schemas + runtime context), its steady state, and how many turns it takes to reach it — then compares workspaces and attributes the difference. Attribution requires at least three workspaces and says so instead of inventing a correlation from two points; a factor with no spread across workspaces is reported as a property of the profile, not of the project. Recommends which workspaces to keep warm, which to archive, by entry cost times visit frequency. Deterministic.",
+    "zh": "工作区切换成本量化：量每个工作区的冷启动开销（AGENTS.md + 技能目录 + 工具 schema + 运行时上下文）、稳态值、 几轮到达稳态，然后横向对比并归因。归因需要至少三个工作区，不到就明说数据不够而不是拿两个点编一个相关性； 在所有工作区之间没有差异的因素被标注为 profile 的属性而非项目的属性。按\"进入成本 × 访问频率\"给出常驻/ 归档建议。纯确定性。"
+   },
+   "repository": {
+    "url": "https://github.com/bushizhanghan/dsh-workspace-switch-cost"
+   },
+   "versions": [
+    {
+     "version": "0.1.2",
+     "publishTimestamp": 1793760619,
+     "source": {
+      "type": "npm",
+      "registry": "https://registry.npmmirror.com"
+     }
+    }
+   ],
+   "metadata": {
+    "category": "usage",
+    "sortKeys": {
+     "stars": 0,
+     "downloads": 297
     }
    }
   },
@@ -3298,8 +3414,8 @@
    },
    "versions": [
     {
-     "version": "0.1.22",
-     "publishTimestamp": 1793561515,
+     "version": "0.1.24",
+     "publishTimestamp": 1793772033,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -3530,8 +3646,8 @@
    },
    "versions": [
     {
-     "version": "0.6.22",
-     "publishTimestamp": 1793693060,
+     "version": "0.6.23",
+     "publishTimestamp": 1793775092,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -3646,8 +3762,8 @@
    },
    "versions": [
     {
-     "version": "0.5.2",
-     "publishTimestamp": 1788831925,
+     "version": "0.6.1",
+     "publishTimestamp": 1793763549,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -4487,8 +4603,8 @@
    },
    "versions": [
     {
-     "version": "0.3.2",
-     "publishTimestamp": 1793607853,
+     "version": "0.3.3",
+     "publishTimestamp": 1793720896,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -4631,8 +4747,8 @@
    },
    "versions": [
     {
-     "version": "0.2.13",
-     "publishTimestamp": 1793644379,
+     "version": "0.3.0",
+     "publishTimestamp": 1793726122,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -5272,8 +5388,8 @@
    },
    "versions": [
     {
-     "version": "1.11.0",
-     "publishTimestamp": 1793284000,
+     "version": "1.15.4",
+     "publishTimestamp": 1793710599,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -5430,6 +5546,35 @@
     "sortKeys": {
      "stars": 3,
      "downloads": 926
+    }
+   }
+  },
+  {
+   "name": "@domitor-syh/dsh-knowbase",
+   "homepage": "https://github.com/domitor-syh/dsh-knowbase",
+   "author": "domitor-syh",
+   "description": {
+    "en": "Local-first knowledge base for DeepSeek Harness: each base is a folder of UTF-8 text, text PDFs and OCR-read images; the plugin retrieves from the session's selected bases before every turn with Chinese n-gram and BM25, answers carry citations that open in a right-sidebar reader, and the agent gets five kb_* tools (list, search, read, stats, propose text) plus /kb commands for create, use, files, search and rescan.",
+    "zh": "DeepSeek Harness 的本地知识库：每个库对应一个本地文件夹，支持 UTF-8 文本、文本型 PDF 与图片 OCR 资料；每轮对话前用中文 n-gram 与 BM25 从本会话所选库中检索，回答带可在右侧阅读器打开原文的引用；并提供 kb_list、kb_search、kb_read、kb_stats、kb_propose_text 五个工具与 /kb 系列命令（新建、选用、文件、检索、重扫）。"
+   },
+   "repository": {
+    "url": "https://github.com/domitor-syh/dsh-knowbase"
+   },
+   "versions": [
+    {
+     "version": "0.1.0",
+     "publishTimestamp": 1793431128,
+     "source": {
+      "type": "npm",
+      "registry": "https://registry.npmmirror.com"
+     }
+    }
+   ],
+   "metadata": {
+    "category": "memory",
+    "sortKeys": {
+     "stars": 1,
+     "downloads": 337
     }
    }
   },
@@ -5649,8 +5794,8 @@
    },
    "versions": [
     {
-     "version": "0.10.0",
-     "publishTimestamp": 1793646999,
+     "version": "0.10.1",
+     "publishTimestamp": 1793706631,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -5678,8 +5823,8 @@
    },
    "versions": [
     {
-     "version": "0.10.0",
-     "publishTimestamp": 1793646949,
+     "version": "0.10.1",
+     "publishTimestamp": 1793706521,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -6171,8 +6316,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0",
-     "publishTimestamp": 1793094963,
+     "version": "0.6.1",
+     "publishTimestamp": 1793703711,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -6548,8 +6693,8 @@
    },
    "versions": [
     {
-     "version": "0.12.0",
-     "publishTimestamp": 1793669114,
+     "version": "0.13.0",
+     "publishTimestamp": 1793774139,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -6693,8 +6838,8 @@
    },
    "versions": [
     {
-     "version": "0.3.2",
-     "publishTimestamp": 1793457432,
+     "version": "0.4.0",
+     "publishTimestamp": 1793726104,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -7711,8 +7856,8 @@
    },
    "versions": [
     {
-     "version": "0.87.4",
-     "publishTimestamp": 1793702014,
+     "version": "0.87.9",
+     "publishTimestamp": 1793781980,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -7740,8 +7885,8 @@
    },
    "versions": [
     {
-     "version": "0.6.1",
-     "publishTimestamp": 1793605581,
+     "version": "0.7.1",
+     "publishTimestamp": 1793780821,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -7856,8 +8001,8 @@
    },
    "versions": [
     {
-     "version": "0.4.0",
-     "publishTimestamp": 1793673274,
+     "version": "0.4.1",
+     "publishTimestamp": 1793770340,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -8033,8 +8178,8 @@
    },
    "versions": [
     {
-     "version": "0.6.1",
-     "publishTimestamp": 1793064755,
+     "version": "0.8.0",
+     "publishTimestamp": 1793785568,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -8054,8 +8199,8 @@
    "homepage": "https://github.com/Francesco502/dsh-quota",
    "author": "Francesco502",
    "description": {
-    "en": "AI Quota & Usage Monitor for DSH: real-time balance and reset countdown tracking for Codex, Cursor, Google Antigravity, and OpenCode-Go.",
-    "zh": "DSH 的 AI 额度与用量监控：实时追踪 Codex、Cursor、Google Antigravity 与 OpenCode-Go 剩余额度与重置倒计时。"
+    "en": "AI quota and usage monitor for DSH: per-window balances, reset countdowns and burn rate for Codex, Cursor, Google Antigravity (including the Gemini 4 Argon pool) and OpenCode-Go.",
+    "zh": "DSH 的 AI 额度与用量监控：按额度窗口展示 Codex、Cursor、Google Antigravity（含 Gemini 4 Argon 独立额度池）与 OpenCode-Go 的剩余额度、重置倒计时与消耗速率。"
    },
    "repository": {
     "url": "https://github.com/Francesco502/dsh-quota"
@@ -8381,8 +8526,8 @@
    },
    "versions": [
     {
-     "version": "2.1.2",
-     "publishTimestamp": 1793202840,
+     "version": "2.1.3",
+     "publishTimestamp": 1793762331,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -8729,8 +8874,8 @@
    },
    "versions": [
     {
-     "version": "0.3.31",
-     "publishTimestamp": 1793566442,
+     "version": "0.3.37",
+     "publishTimestamp": 1793717005,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -8845,8 +8990,8 @@
    },
    "versions": [
     {
-     "version": "0.12.19",
-     "publishTimestamp": 1793363915,
+     "version": "0.12.24",
+     "publishTimestamp": 1793734110,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -8961,8 +9106,8 @@
    },
    "versions": [
     {
-     "version": "0.8.84",
-     "publishTimestamp": 1793478112,
+     "version": "0.8.89",
+     "publishTimestamp": 1793720055,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -9048,8 +9193,8 @@
    },
    "versions": [
     {
-     "version": "0.4.28",
-     "publishTimestamp": 1793293830,
+     "version": "0.4.29",
+     "publishTimestamp": 1793703953,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -9570,8 +9715,8 @@
    },
    "versions": [
     {
-     "version": "1.5.0",
-     "publishTimestamp": 1792494493,
+     "version": "1.6.0",
+     "publishTimestamp": 1793715946,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10530,8 +10675,8 @@
    },
    "versions": [
     {
-     "version": "0.4.14",
-     "publishTimestamp": 1793697961,
+     "version": "0.4.15",
+     "publishTimestamp": 1793768433,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10559,8 +10704,8 @@
    },
    "versions": [
     {
-     "version": "0.4.16",
-     "publishTimestamp": 1793698156,
+     "version": "0.4.17",
+     "publishTimestamp": 1793768476,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10588,8 +10733,8 @@
    },
    "versions": [
     {
-     "version": "0.37.2",
-     "publishTimestamp": 1793698011,
+     "version": "0.37.3",
+     "publishTimestamp": 1793768458,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10646,8 +10791,8 @@
    },
    "versions": [
     {
-     "version": "1.5.25",
-     "publishTimestamp": 1793592399,
+     "version": "1.5.27",
+     "publishTimestamp": 1793720442,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10733,8 +10878,8 @@
    },
    "versions": [
     {
-     "version": "0.4.11",
-     "publishTimestamp": 1793200889,
+     "version": "0.4.12",
+     "publishTimestamp": 1793718236,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10762,8 +10907,8 @@
    },
    "versions": [
     {
-     "version": "0.1.14",
-     "publishTimestamp": 1793200993,
+     "version": "0.1.15",
+     "publishTimestamp": 1793718119,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -10965,8 +11110,8 @@
    },
    "versions": [
     {
-     "version": "0.3.9",
-     "publishTimestamp": 1793263998,
+     "version": "0.3.10",
+     "publishTimestamp": 1793767244,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -11345,8 +11490,8 @@
    },
    "versions": [
     {
-     "version": "0.1.7",
-     "publishTimestamp": 1793273459,
+     "version": "0.1.8",
+     "publishTimestamp": 1793456080,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -11635,8 +11780,8 @@
    },
    "versions": [
     {
-     "version": "1.1.0",
-     "publishTimestamp": 1793346036,
+     "version": "1.1.1",
+     "publishTimestamp": 1793782493,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -11867,8 +12012,8 @@
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1792984707,
+     "version": "0.4.2",
+     "publishTimestamp": 1793705173,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12012,8 +12157,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1792584499,
+     "version": "0.2.0",
+     "publishTimestamp": 1793759570,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12244,8 +12389,8 @@
    },
    "versions": [
     {
-     "version": "2.1.0",
-     "publishTimestamp": 1793457327,
+     "version": "2.1.1",
+     "publishTimestamp": 1793783726,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12476,8 +12621,8 @@
    },
    "versions": [
     {
-     "version": "1.8.1",
-     "publishTimestamp": 1793319676,
+     "version": "1.8.2",
+     "publishTimestamp": 1793752106,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12505,8 +12650,8 @@
    },
    "versions": [
     {
-     "version": "1.0.1",
-     "publishTimestamp": 1792302245,
+     "version": "1.0.2",
+     "publishTimestamp": 1793718108,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12534,8 +12679,8 @@
    },
    "versions": [
     {
-     "version": "1.0.2",
-     "publishTimestamp": 1792302254,
+     "version": "1.0.3",
+     "publishTimestamp": 1793718084,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12563,8 +12708,8 @@
    },
    "versions": [
     {
-     "version": "1.0.3",
-     "publishTimestamp": 1793177772,
+     "version": "1.0.4",
+     "publishTimestamp": 1793718381,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -12592,8 +12737,8 @@
    },
    "versions": [
     {
-     "version": "1.8.6",
-     "publishTimestamp": 1793179732,
+     "version": "1.8.7",
+     "publishTimestamp": 1793718271,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -13375,8 +13520,8 @@
    },
    "versions": [
     {
-     "version": "0.10.0",
-     "publishTimestamp": 1793093916,
+     "version": "0.11.0",
+     "publishTimestamp": 1793755277,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -13752,8 +13897,8 @@
    },
    "versions": [
     {
-     "version": "1.2.1",
-     "publishTimestamp": 1790918114,
+     "version": "1.2.2",
+     "publishTimestamp": 1793777580,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -13810,8 +13955,8 @@
    },
    "versions": [
     {
-     "version": "1.9.0",
-     "publishTimestamp": 1793569647,
+     "version": "1.9.1",
+     "publishTimestamp": 1793724752,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -13868,8 +14013,8 @@
    },
    "versions": [
     {
-     "version": "2.17.2",
-     "publishTimestamp": 1793611222,
+     "version": "2.19.3",
+     "publishTimestamp": 1793788145,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -13897,8 +14042,8 @@
    },
    "versions": [
     {
-     "version": "2.23.26",
-     "publishTimestamp": 1793514063,
+     "version": "2.23.55",
+     "publishTimestamp": 1793762257,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -15347,8 +15492,8 @@
    },
    "versions": [
     {
-     "version": "0.25.5",
-     "publishTimestamp": 1792999622,
+     "version": "0.30.6",
+     "publishTimestamp": 1793789158,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -15434,8 +15579,8 @@
    },
    "versions": [
     {
-     "version": "0.17.0",
-     "publishTimestamp": 1792253730,
+     "version": "0.18.0",
+     "publishTimestamp": 1793767133,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -15550,8 +15695,8 @@
    },
    "versions": [
     {
-     "version": "0.1.66",
-     "publishTimestamp": 1793683795,
+     "version": "0.1.69",
+     "publishTimestamp": 1793773717,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -16072,8 +16217,8 @@
    },
    "versions": [
     {
-     "version": "0.4.11",
-     "publishTimestamp": 1792849556,
+     "version": "0.4.12",
+     "publishTimestamp": 1793777862,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -16101,8 +16246,8 @@
    },
    "versions": [
     {
-     "version": "0.4.6",
-     "publishTimestamp": 1793355379,
+     "version": "0.4.7",
+     "publishTimestamp": 1793756631,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -16325,8 +16470,8 @@
    "homepage": "https://github.com/lyx0717/dsh-washer",
    "author": "lyx0717",
    "description": {
-    "en": "Renders DeepSeek Harness session state as a washing machine: a desktop floating widget animates live session activity, with three skins (precision, anime, pixel). The overlay offers two sizes, optional click-through, and follows the host app's dark mode. Settings live inside the DSH UI.",
-    "zh": "把 DeepSeek Harness 会话状态渲染成一台滚筒洗衣机：桌面浮窗用动画显示会话运行状态，三种皮肤（精密家电/动漫/像素）。浮窗支持两档尺寸、点击穿透，并跟随宿主应用的深浅色主题；设置面板内置于 DSH 界面，可开关浮窗与调整外观。"
+    "en": "An always-on-top desktop pet (a washing machine) that renders session state as washing actions: four switchable skins, multi-session counters, and proactive done / stuck / approval alerts on macOS and Windows, plus a detail panel with recent turns and timings.",
+    "zh": "常驻桌面的桌宠（桌面宠物）：一台滚筒洗衣机，把会话状态渲染成洗衣动作，四套皮肤（精密家电 / 复古奶油 / 工笔重彩 / 太空舱）可切换，多会话计数、洗完 / 卡住 / 等你确认主动提醒；macOS 与 Windows 均可运行，详情面板可看最近几轮与耗时。"
    },
    "repository": {
     "url": "https://github.com/lyx0717/dsh-washer"
@@ -16655,8 +16800,8 @@
    },
    "versions": [
     {
-     "version": "0.16.4",
-     "publishTimestamp": 1793579985,
+     "version": "0.17.0",
+     "publishTimestamp": 1793764246,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17053,8 +17198,8 @@
    "homepage": "https://github.com/Windsander/Mebular/tree/main/packages/dsh-plugin",
    "author": "Windsander",
    "description": {
-    "en": "Decentralized, offline-first graph memory and task graph for DSH, with signed facts, multi-device sync, and the shared Mebular Console embedded in a sidebar panel. Requires a running Mebular daemon (the Mebular desktop app, or mebular serve from @mebular/core); this plugin only attaches its memory tools and Console panel to it.",
-    "zh": "去中心化、离线优先的 DSH 图式记忆与任务图：签名事实、多设备同步，并在侧边栏复用 Mebular 共享控制台。需本机已运行 Mebular 守护进程（Mebular 桌面 App，或 @mebular/core 的 mebular serve）；本插件只把它的记忆工具与控制台面板接入 DSH。"
+    "en": "Mebular · shared memory and task collaboration for agents. Through a DSH-native plugin it offers cross-device, cross-agent memory sharing and task graphs. The plugin attaches to an existing Mebular app or CLI runtime, and its panel installs the shared runtime on demand when none exists; it never starts or downloads Mebular silently.",
+    "zh": "Mebular 忆云 · 智能体共享记忆与任务协作。通过 DSH 原生插件提供跨设备、跨 Agent 的记忆共享与任务图。插件连接已有的 Mebular App/CLI 运行时；没有时可在面板里按提示安装共享运行时，不会静默启动或下载 Mebular。"
    },
    "repository": {
     "url": "https://github.com/Windsander/Mebular/tree/main/packages/dsh-plugin"
@@ -17264,8 +17409,8 @@
    },
    "versions": [
     {
-     "version": "1.2.22",
-     "publishTimestamp": 1793687703,
+     "version": "1.2.25",
+     "publishTimestamp": 1793727210,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17293,8 +17438,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793683553,
+     "version": "1.2.6",
+     "publishTimestamp": 1793762424,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17322,8 +17467,8 @@
    },
    "versions": [
     {
-     "version": "1.0.13",
-     "publishTimestamp": 1793229816,
+     "version": "1.0.17",
+     "publishTimestamp": 1793728767,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17351,8 +17496,8 @@
    },
    "versions": [
     {
-     "version": "1.3.1",
-     "publishTimestamp": 1793543278,
+     "version": "1.3.2",
+     "publishTimestamp": 1793704074,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17380,8 +17525,8 @@
    },
    "versions": [
     {
-     "version": "1.0.5",
-     "publishTimestamp": 1793254997,
+     "version": "1.0.7",
+     "publishTimestamp": 1793704803,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17409,8 +17554,8 @@
    },
    "versions": [
     {
-     "version": "1.0.8",
-     "publishTimestamp": 1793637249,
+     "version": "1.0.12",
+     "publishTimestamp": 1793708522,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17438,8 +17583,8 @@
    },
    "versions": [
     {
-     "version": "2.0.13",
-     "publishTimestamp": 1793681986,
+     "version": "2.0.14",
+     "publishTimestamp": 1793776226,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17467,8 +17612,8 @@
    },
    "versions": [
     {
-     "version": "1.0.23",
-     "publishTimestamp": 1793695537,
+     "version": "1.0.25",
+     "publishTimestamp": 1793727920,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17496,8 +17641,8 @@
    },
    "versions": [
     {
-     "version": "1.0.5",
-     "publishTimestamp": 1793205675,
+     "version": "1.0.6",
+     "publishTimestamp": 1793705555,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17525,8 +17670,8 @@
    },
    "versions": [
     {
-     "version": "1.0.5",
-     "publishTimestamp": 1793101678,
+     "version": "1.0.6",
+     "publishTimestamp": 1793705360,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -17554,8 +17699,8 @@
    },
    "versions": [
     {
-     "version": "1.2.26",
-     "publishTimestamp": 1793504428,
+     "version": "1.2.29",
+     "publishTimestamp": 1793728380,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -18163,8 +18308,8 @@
    },
    "versions": [
     {
-     "version": "0.8.21",
-     "publishTimestamp": 1793694739,
+     "version": "0.9.5",
+     "publishTimestamp": 1793786428,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -18192,8 +18337,8 @@
    },
    "versions": [
     {
-     "version": "0.8.4",
-     "publishTimestamp": 1793676934,
+     "version": "0.8.11",
+     "publishTimestamp": 1793785044,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -18337,8 +18482,8 @@
    },
    "versions": [
     {
-     "version": "4.1.4",
-     "publishTimestamp": 1793433133,
+     "version": "4.2.0",
+     "publishTimestamp": 1793766799,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -18366,8 +18511,8 @@
    },
    "versions": [
     {
-     "version": "0.1.6-alpha.7",
-     "publishTimestamp": 1791189622,
+     "version": "0.2.0",
+     "publishTimestamp": 1793754860,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -18917,8 +19062,8 @@
    },
    "versions": [
     {
-     "version": "0.6.32",
-     "publishTimestamp": 1793691669,
+     "version": "0.6.37",
+     "publishTimestamp": 1793781468,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -19120,8 +19265,8 @@
    },
    "versions": [
     {
-     "version": "0.6.7",
-     "publishTimestamp": 1793638077,
+     "version": "0.7.0",
+     "publishTimestamp": 1793784282,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -19236,8 +19381,8 @@
    },
    "versions": [
     {
-     "version": "0.5.100",
-     "publishTimestamp": 1793679174,
+     "version": "0.5.104",
+     "publishTimestamp": 1793788217,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -19381,8 +19526,8 @@
    },
    "versions": [
     {
-     "version": "0.1.5",
-     "publishTimestamp": 1793443262,
+     "version": "0.1.6",
+     "publishTimestamp": 1793779146,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -19964,8 +20109,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0-preview.22",
-     "publishTimestamp": 1793592274,
+     "version": "0.6.0-preview.23",
+     "publishTimestamp": 1793742473,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20109,8 +20254,8 @@
    },
    "versions": [
     {
-     "version": "0.10.0-preview.6",
-     "publishTimestamp": 1793567388,
+     "version": "0.12.0-preview.1",
+     "publishTimestamp": 1793757716,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20130,8 +20275,8 @@
    "homepage": "https://github.com/oxmumu3/dsh-project-companion",
    "author": "oxmumu3",
    "description": {
-    "en": "Personal project assistant for bounded project context and memory, explicit task handoffs through an existing WeChat bridge, reminders, and source-linked summaries. The WeChat path needs the separate pan17/dsh-wechat bridge and your own scan-code binding.",
-    "zh": "个人项目助手：管理有界项目上下文和记忆，通过既有微信桥接明确交办任务、安排提醒并查看带来源的摘要。微信通路需另装 pan17/dsh-wechat 桥接并由本人扫码绑定。"
+    "en": "Personal assistant for projects, conversations, memory, reviews and news. Bundled WeChat pins the QR-confirmed account; first messages cannot claim ownership. An optional allowlist further restricts access. Missing or conflicting identity requires desktop recovery. API acceptance is not phone receipt.",
+    "zh": "个人助理：在授权范围内整理项目，衔接原生对话、记忆、回顾与资讯。单包内置微信，扫码确认账号为唯一操作者，陌生人先发消息不能认领；白名单可进一步限制，身份缺失或冲突会暂停并提示在电脑恢复。接口接受不代表手机实收。"
    },
    "repository": {
     "url": "https://github.com/oxmumu3/dsh-project-companion"
@@ -20312,8 +20457,8 @@
    },
    "versions": [
     {
-     "version": "0.1.21",
-     "publishTimestamp": 1790930000,
+     "version": "0.1.31",
+     "publishTimestamp": 1793785601,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20341,8 +20486,8 @@
    },
    "versions": [
     {
-     "version": "0.1.21",
-     "publishTimestamp": 1790929992,
+     "version": "0.1.31",
+     "publishTimestamp": 1793785597,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20370,8 +20515,8 @@
    },
    "versions": [
     {
-     "version": "0.7.31",
-     "publishTimestamp": 1793685784,
+     "version": "0.7.34",
+     "publishTimestamp": 1793714997,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20402,8 +20547,8 @@
    },
    "versions": [
     {
-     "version": "0.7.10",
-     "publishTimestamp": 1793685610,
+     "version": "0.7.11",
+     "publishTimestamp": 1793714643,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20434,8 +20579,8 @@
    },
    "versions": [
     {
-     "version": "0.1.25",
-     "publishTimestamp": 1793685750,
+     "version": "0.1.26",
+     "publishTimestamp": 1793714569,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20466,8 +20611,8 @@
    },
    "versions": [
     {
-     "version": "0.1.26",
-     "publishTimestamp": 1793685645,
+     "version": "0.1.30",
+     "publishTimestamp": 1793715145,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -20614,8 +20759,8 @@
    },
    "versions": [
     {
-     "version": "1.21.0",
-     "publishTimestamp": 1793529195,
+     "version": "1.22.1",
+     "publishTimestamp": 1793756545,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -21284,8 +21429,8 @@
    },
    "versions": [
     {
-     "version": "0.4.3",
-     "publishTimestamp": 1793433406,
+     "version": "0.5.0",
+     "publishTimestamp": 1793717869,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -21574,8 +21719,8 @@
    },
    "versions": [
     {
-     "version": "0.3.2",
-     "publishTimestamp": 1792253063,
+     "version": "0.3.3",
+     "publishTimestamp": 1793777016,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22096,8 +22241,8 @@
    },
    "versions": [
     {
-     "version": "0.12.8",
-     "publishTimestamp": 1793303757,
+     "version": "0.13.0",
+     "publishTimestamp": 1793722762,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22125,8 +22270,8 @@
    },
    "versions": [
     {
-     "version": "0.5.7",
-     "publishTimestamp": 1793362452,
+     "version": "0.5.8",
+     "publishTimestamp": 1793714432,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22154,8 +22299,8 @@
    },
    "versions": [
     {
-     "version": "0.13.7",
-     "publishTimestamp": 1793362482,
+     "version": "0.13.8",
+     "publishTimestamp": 1793714324,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22183,8 +22328,8 @@
    },
    "versions": [
     {
-     "version": "0.4.8",
-     "publishTimestamp": 1793362499,
+     "version": "0.5.0",
+     "publishTimestamp": 1793714386,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22473,8 +22618,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793702575,
+     "version": "1.6.1",
+     "publishTimestamp": 1793783545,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22705,8 +22850,8 @@
    },
    "versions": [
     {
-     "version": "0.1.14",
-     "publishTimestamp": 1792403127,
+     "version": "0.1.15",
+     "publishTimestamp": 1793755693,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -22879,8 +23024,8 @@
    },
    "versions": [
     {
-     "version": "0.4.17",
-     "publishTimestamp": 1793636597,
+     "version": "0.4.18",
+     "publishTimestamp": 1793765718,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23227,8 +23372,8 @@
    },
    "versions": [
     {
-     "version": "0.2.7",
-     "publishTimestamp": 1793352397,
+     "version": "0.2.8",
+     "publishTimestamp": 1793777901,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23314,8 +23459,8 @@
    },
    "versions": [
     {
-     "version": "0.1.6",
-     "publishTimestamp": 1793670730,
+     "version": "0.1.7",
+     "publishTimestamp": 1793772232,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23343,8 +23488,8 @@
    },
    "versions": [
     {
-     "version": "7.0.1",
-     "publishTimestamp": 1793331402,
+     "version": "7.0.2",
+     "publishTimestamp": 1793347307,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23372,8 +23517,8 @@
    },
    "versions": [
     {
-     "version": "7.0.1",
-     "publishTimestamp": 1793331408,
+     "version": "7.0.2",
+     "publishTimestamp": 1793347361,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23401,8 +23546,8 @@
    },
    "versions": [
     {
-     "version": "7.0.1",
-     "publishTimestamp": 1793331221,
+     "version": "7.0.2",
+     "publishTimestamp": 1793347371,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23430,8 +23575,8 @@
    },
    "versions": [
     {
-     "version": "7.0.1",
-     "publishTimestamp": 1793331300,
+     "version": "7.0.2",
+     "publishTimestamp": 1793347344,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23459,8 +23604,8 @@
    },
    "versions": [
     {
-     "version": "7.0.1",
-     "publishTimestamp": 1793331282,
+     "version": "7.0.2",
+     "publishTimestamp": 1793347365,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23923,8 +24068,8 @@
    },
    "versions": [
     {
-     "version": "2.16.0",
-     "publishTimestamp": 1793695299,
+     "version": "2.16.1",
+     "publishTimestamp": 1793754250,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -23952,8 +24097,8 @@
    },
    "versions": [
     {
-     "version": "0.8.4",
-     "publishTimestamp": 1793359082,
+     "version": "0.8.5",
+     "publishTimestamp": 1793713076,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -25028,8 +25173,8 @@
    },
    "versions": [
     {
-     "version": "0.5.11",
-     "publishTimestamp": 1793237399,
+     "version": "0.5.12",
+     "publishTimestamp": 1793712448,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -25202,8 +25347,8 @@
    },
    "versions": [
     {
-     "version": "2.7.0",
-     "publishTimestamp": 1793379303,
+     "version": "2.7.1",
+     "publishTimestamp": 1793730797,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -25289,8 +25434,8 @@
    },
    "versions": [
     {
-     "version": "0.1.9",
-     "publishTimestamp": 1793638307,
+     "version": "0.1.10",
+     "publishTimestamp": 1793714977,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -25959,8 +26104,8 @@
    },
    "versions": [
     {
-     "version": "0.1.9",
-     "publishTimestamp": 1793617225,
+     "version": "0.1.10",
+     "publishTimestamp": 1793703172,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -26313,8 +26458,8 @@
    },
    "versions": [
     {
-     "version": "1.10.2",
-     "publishTimestamp": 1793511969,
+     "version": "1.11.0",
+     "publishTimestamp": 1793735909,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -26548,8 +26693,8 @@
    },
    "versions": [
     {
-     "version": "2.2.1",
-     "publishTimestamp": 1793680193,
+     "version": "3.0.0",
+     "publishTimestamp": 1793782406,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -26693,8 +26838,8 @@
    },
    "versions": [
     {
-     "version": "0.2.1",
-     "publishTimestamp": 1793340544,
+     "version": "0.2.2",
+     "publishTimestamp": 1793715123,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -26722,8 +26867,8 @@
    },
    "versions": [
     {
-     "version": "5.9.1",
-     "publishTimestamp": 1793464689,
+     "version": "5.10.0",
+     "publishTimestamp": 1793724813,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -26896,8 +27041,8 @@
    },
    "versions": [
     {
-     "version": "0.5.0",
-     "publishTimestamp": 1793686516,
+     "version": "0.6.0",
+     "publishTimestamp": 1793781485,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -27737,8 +27882,8 @@
    },
    "versions": [
     {
-     "version": "1.0.3",
-     "publishTimestamp": 1792411537,
+     "version": "1.1.0",
+     "publishTimestamp": 1793721095,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -27766,8 +27911,8 @@
    },
    "versions": [
     {
-     "version": "0.7.17",
-     "publishTimestamp": 1793288573,
+     "version": "0.8.0",
+     "publishTimestamp": 1793722232,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -27824,8 +27969,8 @@
    },
    "versions": [
     {
-     "version": "1.0.4",
-     "publishTimestamp": 1791704763,
+     "version": "1.1.0",
+     "publishTimestamp": 1793720205,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -28346,8 +28491,8 @@
    },
    "versions": [
     {
-     "version": "1.11.38",
-     "publishTimestamp": 1793661380,
+     "version": "1.11.39",
+     "publishTimestamp": 1793704791,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -29045,8 +29190,8 @@
    },
    "versions": [
     {
-     "version": "26.11.3",
-     "publishTimestamp": 1793695967,
+     "version": "26.11.4",
+     "publishTimestamp": 1793768663,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -29058,35 +29203,6 @@
     "sortKeys": {
      "stars": 2,
      "downloads": 1600
-    }
-   }
-  },
-  {
-   "name": "@zhiqiangme/dsh-opencode2api",
-   "homepage": "https://github.com/zhiqiangme/dsh-plugins/tree/main/dsh-opencode2api",
-   "author": "zhiqiangme",
-   "description": {
-    "en": "Runs the standalone opencode2api backend (jasonxu114514/opencode2api, Windows x64/ARM64, no Docker or OpenCode CLI) with DSH and on exit stops only the process it launched; its settings card installs, updates or rolls back the backend from checksum-verified GitHub releases, copies the initial admin password and syncs /v1/models into an opencode2api provider with context, vision and reasoning efforts, re-syncing every 10 minutes.",
-    "zh": "随 DSH 启动独立的 opencode2api 后端（jasonxu114514/opencode2api，Windows x64/ARM64，无需 Docker 或 OpenCode CLI），退出时只停自己拉起的进程；设置卡片可从经校验和验证的 GitHub Release 安装、更新或回滚后端，复制初始管理密码，并把 /v1/models 连同上下文、视觉与思考档位同步到 opencode2api 模型提供方，运行中每 10 分钟重同步。"
-   },
-   "repository": {
-    "url": "https://github.com/zhiqiangme/dsh-plugins/tree/main/dsh-opencode2api"
-   },
-   "versions": [
-    {
-     "version": "26.10.31",
-     "publishTimestamp": 1793447686,
-     "source": {
-      "type": "npm",
-      "registry": "https://registry.npmmirror.com"
-     }
-    }
-   ],
-   "metadata": {
-    "category": "model",
-    "sortKeys": {
-     "stars": 2,
-     "downloads": 1182
     }
    }
   },
@@ -29190,11 +29306,14 @@
    },
    "versions": [
     {
-     "version": "2.0.3",
-     "publishTimestamp": 1793186780,
+     "version": "2.0.5",
+     "publishTimestamp": 1793775249,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
+     },
+     "engines": {
+      "dsh": ">=0.2.1-0 <0.3.0"
      }
     }
    ],
@@ -30350,8 +30469,8 @@
    },
    "versions": [
     {
-     "version": "0.2.1",
-     "publishTimestamp": 1793174994,
+     "version": "0.2.2",
+     "publishTimestamp": 1793788946,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -30432,8 +30551,8 @@
    "homepage": "https://github.com/tasuma-qwq/baifanyu-ofm-bridge",
    "author": "tasuma-qwq",
    "description": {
-    "en": "Adds OFM lane and effort selection on top of the Our Free Model plugin (Ebony-Vinyl/dsh-our-free-model, installed separately with its free public pool enabled), plus public-pool setup, cooldown tracking, and a local DSH connection check.",
-    "zh": "在另行安装并启用免费公开池的 Our Free Model 插件（Ebony-Vinyl/dsh-our-free-model）之上，提供 OFM 渠道与档位选择、公开池配置、冷却记录和本机 DSH 接入验证。"
+    "en": "Connects DSH Web and qq-bridge to OFM, defaulting to the DeepSeek public pool while preserving reasoning effort and manual model selection; loads the official OFM dependency when absent and reports account-rotation receipts.",
+    "zh": "为 DSH Web / qq-bridge 接入 OFM，默认先选 DeepSeek 免费池并保留思考档位；缺少 OFM 时装载官方依赖，支持自有账号与轮换回执，不限制手动选模。"
    },
    "repository": {
     "url": "https://github.com/tasuma-qwq/baifanyu-ofm-bridge"
@@ -30556,8 +30675,8 @@
    },
    "versions": [
     {
-     "version": "0.6.3",
-     "publishTimestamp": 1793537290,
+     "version": "0.7.2",
+     "publishTimestamp": 1793735762,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -30701,8 +30820,8 @@
    },
    "versions": [
     {
-     "version": "2.7.2",
-     "publishTimestamp": 1793585105,
+     "version": "2.7.3",
+     "publishTimestamp": 1793766872,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -31281,8 +31400,8 @@
    },
    "versions": [
     {
-     "version": "0.2.7",
-     "publishTimestamp": 1793362648,
+     "version": "0.2.8",
+     "publishTimestamp": 1793714407,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -31310,8 +31429,8 @@
    },
    "versions": [
     {
-     "version": "0.3.0",
-     "publishTimestamp": 1793554084,
+     "version": "0.4.0",
+     "publishTimestamp": 1793761962,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -32209,8 +32328,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1790919993,
+     "version": "0.7.1",
+     "publishTimestamp": 1793760779,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -33021,8 +33140,8 @@
    },
    "versions": [
     {
-     "version": "0.13.0",
-     "publishTimestamp": 1793008716,
+     "version": "0.14.1",
+     "publishTimestamp": 1793775620,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -33108,8 +33227,8 @@
    },
    "versions": [
     {
-     "version": "0.5.1",
-     "publishTimestamp": 1793528040,
+     "version": "0.5.2",
+     "publishTimestamp": 1793789560,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -33224,8 +33343,8 @@
    },
    "versions": [
     {
-     "version": "0.4.5",
-     "publishTimestamp": 1793649806,
+     "version": "0.4.9",
+     "publishTimestamp": 1793735089,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -33514,8 +33633,8 @@
    },
    "versions": [
     {
-     "version": "0.4.100",
-     "publishTimestamp": 1793610218,
+     "version": "0.5.2",
+     "publishTimestamp": 1793780980,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -33862,8 +33981,8 @@
    },
    "versions": [
     {
-     "version": "0.3.8",
-     "publishTimestamp": 1792573953,
+     "version": "0.3.9",
+     "publishTimestamp": 1793759117,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -35173,8 +35292,8 @@
    },
    "versions": [
     {
-     "version": "1.3.8",
-     "publishTimestamp": 1793687175,
+     "version": "1.3.15",
+     "publishTimestamp": 1793784187,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -35492,8 +35611,8 @@
    },
    "versions": [
     {
-     "version": "0.2.12",
-     "publishTimestamp": 1793375946,
+     "version": "0.2.13",
+     "publishTimestamp": 1793773984,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -35582,8 +35701,8 @@
    },
    "versions": [
     {
-     "version": "0.38.1",
-     "publishTimestamp": 1793552584,
+     "version": "0.39.3",
+     "publishTimestamp": 1793773762,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -36980,8 +37099,8 @@
    },
    "versions": [
     {
-     "version": "0.6.4",
-     "publishTimestamp": 1793637989,
+     "version": "0.6.8",
+     "publishTimestamp": 1793721178,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -37273,8 +37392,8 @@
    },
    "versions": [
     {
-     "version": "0.6.4",
-     "publishTimestamp": 1793676726,
+     "version": "0.6.6",
+     "publishTimestamp": 1793733627,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -37685,8 +37804,8 @@
    },
    "versions": [
     {
-     "version": "0.8.5",
-     "publishTimestamp": 1793327953,
+     "version": "0.9.1",
+     "publishTimestamp": 1793750452,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -37804,8 +37923,8 @@
    },
    "versions": [
     {
-     "version": "2.0.0",
-     "publishTimestamp": 1793448991,
+     "version": "2.1.0",
+     "publishTimestamp": 1793706392,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -38413,8 +38532,8 @@
    },
    "versions": [
     {
-     "version": "0.2.1-rc.4",
-     "publishTimestamp": 1792664833,
+     "version": "0.2.1-rc.5",
+     "publishTimestamp": 1793771232,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -38442,8 +38561,8 @@
    },
    "versions": [
     {
-     "version": "0.3.2",
-     "publishTimestamp": 1793607723,
+     "version": "0.3.3",
+     "publishTimestamp": 1793771051,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -38851,8 +38970,8 @@
    },
    "versions": [
     {
-     "version": "0.3.10",
-     "publishTimestamp": 1793684560,
+     "version": "0.3.12",
+     "publishTimestamp": 1793755282,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -38930,16 +39049,16 @@
    "homepage": "https://github.com/exoticknight/dsh-better-left-sidebar",
    "author": "exoticknight",
    "description": {
-    "en": "A cleaner, better-organized DeepSeek Harness sidebar with support for multiple plugin-defined widgets.",
-    "zh": "更清爽、更合理的 DeepSeek Harness 左边栏，支持插件自定义多个小组件。"
+    "en": "A clearer DeepSeek Harness sidebar with separate navigation and conversation regions and built-in widgets.",
+    "zh": "分区更清晰的 DeepSeek Harness 左侧栏，内置时钟、余额等小组件。"
    },
    "repository": {
     "url": "https://github.com/exoticknight/dsh-better-left-sidebar"
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1793637727,
+     "version": "0.2.2",
+     "publishTimestamp": 1793775075,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39170,8 +39289,8 @@
    },
    "versions": [
     {
-     "version": "0.37.3",
-     "publishTimestamp": 1793694519,
+     "version": "0.38.1",
+     "publishTimestamp": 1793763427,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39199,8 +39318,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1793376498,
+     "version": "0.1.3",
+     "publishTimestamp": 1793773950,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39231,8 +39350,8 @@
    },
    "versions": [
     {
-     "version": "0.4.7",
-     "publishTimestamp": 1793389411,
+     "version": "0.5.0",
+     "publishTimestamp": 1793707690,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39318,8 +39437,8 @@
    },
    "versions": [
     {
-     "version": "2.4.0",
-     "publishTimestamp": 1793441671,
+     "version": "2.5.0",
+     "publishTimestamp": 1793734356,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39347,8 +39466,8 @@
    },
    "versions": [
     {
-     "version": "0.9.7",
-     "publishTimestamp": 1793623915,
+     "version": "0.9.8",
+     "publishTimestamp": 1793704270,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39376,8 +39495,8 @@
    },
    "versions": [
     {
-     "version": "0.4.4",
-     "publishTimestamp": 1793629690,
+     "version": "0.4.6",
+     "publishTimestamp": 1793717760,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39405,8 +39524,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1792393998,
+     "version": "0.3.2",
+     "publishTimestamp": 1793719721,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -39930,8 +40049,8 @@
    },
    "versions": [
     {
-     "version": "0.21.1",
-     "publishTimestamp": 1793700266,
+     "version": "0.24.0",
+     "publishTimestamp": 1793787550,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -40191,8 +40310,8 @@
    },
    "versions": [
     {
-     "version": "2.16.0",
-     "publishTimestamp": 1793618404,
+     "version": "2.16.10",
+     "publishTimestamp": 1793771370,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -40365,8 +40484,8 @@
    },
    "versions": [
     {
-     "version": "1.21.10",
-     "publishTimestamp": 1793259634,
+     "version": "1.21.11",
+     "publishTimestamp": 1793788954,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -41003,8 +41122,8 @@
    },
    "versions": [
     {
-     "version": "0.5.2",
-     "publishTimestamp": 1793480946,
+     "version": "0.5.6",
+     "publishTimestamp": 1793723224,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -41177,8 +41296,8 @@
    },
    "versions": [
     {
-     "version": "0.1.35",
-     "publishTimestamp": 1793670663,
+     "version": "0.1.37",
+     "publishTimestamp": 1793757010,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -41467,8 +41586,8 @@
    },
    "versions": [
     {
-     "version": "0.14.3",
-     "publishTimestamp": 1793362699,
+     "version": "0.14.4",
+     "publishTimestamp": 1793714260,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -41525,8 +41644,8 @@
    },
    "versions": [
     {
-     "version": "0.2.1",
-     "publishTimestamp": 1793376007,
+     "version": "0.2.2",
+     "publishTimestamp": 1793774024,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -42139,8 +42258,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793540860,
+     "version": "0.2.3",
+     "publishTimestamp": 1793715178,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -42667,8 +42786,8 @@
    },
    "versions": [
     {
-     "version": "1.5.20",
-     "publishTimestamp": 1793345666,
+     "version": "1.5.21",
+     "publishTimestamp": 1793702600,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -43366,8 +43485,8 @@
    },
    "versions": [
     {
-     "version": "0.1.32",
-     "publishTimestamp": 1793685349,
+     "version": "0.1.33",
+     "publishTimestamp": 1793725422,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -43395,8 +43514,8 @@
    },
    "versions": [
     {
-     "version": "0.7.7",
-     "publishTimestamp": 1793362512,
+     "version": "0.7.8",
+     "publishTimestamp": 1793714486,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -43540,8 +43659,8 @@
    },
    "versions": [
     {
-     "version": "0.9.1",
-     "publishTimestamp": 1793154590,
+     "version": "1.0.1",
+     "publishTimestamp": 1793788893,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -43598,8 +43717,8 @@
    },
    "versions": [
     {
-     "version": "0.9.1",
-     "publishTimestamp": 1793684609,
+     "version": "0.9.2",
+     "publishTimestamp": 1793770046,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -43746,8 +43865,8 @@
    },
    "versions": [
     {
-     "version": "0.19.6",
-     "publishTimestamp": 1793335673,
+     "version": "0.19.7",
+     "publishTimestamp": 1793712602,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -44068,8 +44187,8 @@
    },
    "versions": [
     {
-     "version": "0.1.16",
-     "publishTimestamp": 1793675427,
+     "version": "0.1.21",
+     "publishTimestamp": 1793784434,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -44822,8 +44941,8 @@
    },
    "versions": [
     {
-     "version": "0.7.8",
-     "publishTimestamp": 1793362474,
+     "version": "0.7.9",
+     "publishTimestamp": 1793714299,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -45286,8 +45405,8 @@
    },
    "versions": [
     {
-     "version": "0.4.7",
-     "publishTimestamp": 1793362561,
+     "version": "0.4.8",
+     "publishTimestamp": 1793714444,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -45315,8 +45434,8 @@
    },
    "versions": [
     {
-     "version": "1.2.3",
-     "publishTimestamp": 1792382119,
+     "version": "1.3.1",
+     "publishTimestamp": 1793775524,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -45895,8 +46014,8 @@
    },
    "versions": [
     {
-     "version": "0.4.5",
-     "publishTimestamp": 1793640981,
+     "version": "0.4.6",
+     "publishTimestamp": 1793705424,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -46420,8 +46539,8 @@
    },
    "versions": [
     {
-     "version": "0.12.0",
-     "publishTimestamp": 1793669222,
+     "version": "0.12.1",
+     "publishTimestamp": 1793733543,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -46800,8 +46919,8 @@
    },
    "versions": [
     {
-     "version": "1.19.1",
-     "publishTimestamp": 1793699040,
+     "version": "1.20.0",
+     "publishTimestamp": 1793717985,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -46887,8 +47006,8 @@
    },
    "versions": [
     {
-     "version": "2.1.1",
-     "publishTimestamp": 1793112321,
+     "version": "2.3.2",
+     "publishTimestamp": 1793785160,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47380,8 +47499,8 @@
    },
    "versions": [
     {
-     "version": "0.13.3",
-     "publishTimestamp": 1792954131,
+     "version": "0.13.4",
+     "publishTimestamp": 1793782953,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47554,8 +47673,8 @@
    },
    "versions": [
     {
-     "version": "0.5.1",
-     "publishTimestamp": 1793175480,
+     "version": "0.5.2",
+     "publishTimestamp": 1793763465,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47641,8 +47760,8 @@
    },
    "versions": [
     {
-     "version": "0.8.4",
-     "publishTimestamp": 1792958004,
+     "version": "0.8.6",
+     "publishTimestamp": 1793783029,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47699,8 +47818,8 @@
    },
    "versions": [
     {
-     "version": "0.1.5",
-     "publishTimestamp": 1793266882,
+     "version": "0.1.6",
+     "publishTimestamp": 1793763659,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47757,8 +47876,8 @@
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1793274150,
+     "version": "0.1.2",
+     "publishTimestamp": 1793763901,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47815,8 +47934,8 @@
    },
    "versions": [
     {
-     "version": "0.5.62",
-     "publishTimestamp": 1793632668,
+     "version": "0.5.63",
+     "publishTimestamp": 1793738240,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47844,8 +47963,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1793376307,
+     "version": "0.1.3",
+     "publishTimestamp": 1793774091,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -47876,8 +47995,8 @@
    },
    "versions": [
     {
-     "version": "0.80.2",
-     "publishTimestamp": 1793645545,
+     "version": "0.81.0",
+     "publishTimestamp": 1793750946,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -48372,8 +48491,8 @@
    },
    "versions": [
     {
-     "version": "0.19.3",
-     "publishTimestamp": 1792524145,
+     "version": "0.19.4",
+     "publishTimestamp": 1793719500,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -48488,8 +48607,8 @@
    },
    "versions": [
     {
-     "version": "0.2.9",
-     "publishTimestamp": 1793695297,
+     "version": "0.3.0",
+     "publishTimestamp": 1793772408,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -48662,8 +48781,8 @@
    },
    "versions": [
     {
-     "version": "0.3.15",
-     "publishTimestamp": 1793460710,
+     "version": "0.3.18",
+     "publishTimestamp": 1793771854,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -49100,8 +49219,8 @@
    },
    "versions": [
     {
-     "version": "1.9.51",
-     "publishTimestamp": 1793684668,
+     "version": "1.9.55",
+     "publishTimestamp": 1793768705,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -50028,8 +50147,8 @@
    },
    "versions": [
     {
-     "version": "0.2.8",
-     "publishTimestamp": 1792329795,
+     "version": "0.2.10",
+     "publishTimestamp": 1793773968,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -50147,8 +50266,8 @@
    },
    "versions": [
     {
-     "version": "2.6.1",
-     "publishTimestamp": 1793673186,
+     "version": "2.7.0",
+     "publishTimestamp": 1793768035,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -50291,8 +50410,8 @@
    },
    "versions": [
     {
-     "version": "0.1.10",
-     "publishTimestamp": 1792642384,
+     "version": "0.1.11",
+     "publishTimestamp": 1793778854,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -50700,8 +50819,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793683881,
+     "version": "1.3.1",
+     "publishTimestamp": 1793724929,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -50845,8 +50964,8 @@
    },
    "versions": [
     {
-     "version": "0.1.6-rc.4",
-     "publishTimestamp": 1792332118,
+     "version": "0.1.9-rc.1",
+     "publishTimestamp": 1793784491,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -51251,8 +51370,8 @@
    },
    "versions": [
     {
-     "version": "1.0.10",
-     "publishTimestamp": 1792380841,
+     "version": "1.0.30",
+     "publishTimestamp": 1793776039,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -51280,8 +51399,8 @@
    },
    "versions": [
     {
-     "version": "1.0.3",
-     "publishTimestamp": 1792290016,
+     "version": "2.4.0",
+     "publishTimestamp": 1793783959,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -51541,8 +51660,8 @@
    },
    "versions": [
     {
-     "version": "0.1.15",
-     "publishTimestamp": 1792933494,
+     "version": "0.2.0",
+     "publishTimestamp": 1793726416,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -51686,8 +51805,8 @@
    },
    "versions": [
     {
-     "version": "0.7.0",
-     "publishTimestamp": 1793591663,
+     "version": "0.7.1",
+     "publishTimestamp": 1793737971,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -51939,19 +52058,22 @@
    "homepage": "https://github.com/111xjyuan/dsh-desktop-sidecar",
    "author": "111xjyuan",
    "description": {
-    "en": "Native Windows desktop control for DSH: window enumeration, UIA control tree, in-process GDI window capture, offline OCR text finding and clicking, background UIA invocation without moving the cursor, clipboard-based CJK typing and key chords, plus a course-playback helper. Ten tools, no driver, no extra runtime.",
-    "zh": "原生 Windows 桌面控制：窗口枚举、UIA 控件树、进程内 GDI 截图、离线 OCR 找字点击、后台 UIA 调用（不移动光标）、剪贴板中文输入、按键组合，另带网课自动播放助手。共 10 个工具，无需驱动与额外运行时。"
+    "en": "Native Windows desktop control for DSH, 21 tools: UIA control tree plus offline OCR to see the screen, click a control by its name, type CJK without touching your clipboard, and drive WeChat / Office / browsers / online-class pages. It never steals your mouse or keyboard (it waits for you to stop), never resizes your windows, lets you type corrections mid-task from a sidebar panel, and after every action it reads the screen back and tells you honestly when it could not confirm. Persistent built-in browser channel. No driver, no extra runtime.",
+    "zh": "原生 Windows 桌面控制，共 21 个工具：UIA 控件树 + 离线 OCR 看屏幕、按控件名字点击、不占剪贴板地打中文，微信 / Office / 浏览器 / 网课都能操作。不抢你的鼠标键盘（你在用它会等）、从不改你的窗口大小，侧边栏「指挥台」可随时打字纠正，每步操作后都会回头核对屏幕并如实说明结果。内置持久登录的网页通道，无需驱动、无额外运行时。"
    },
    "repository": {
     "url": "https://github.com/111xjyuan/dsh-desktop-sidecar"
    },
    "versions": [
     {
-     "version": "0.7.0",
-     "publishTimestamp": 1793548920,
+     "version": "0.10.2",
+     "publishTimestamp": 1793726692,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
+     },
+     "engines": {
+      "dsh": ">=0.2.0"
      }
     }
    ],
@@ -52171,16 +52293,16 @@
    "homepage": "https://github.com/LongerWu2026/dsh-dev-workbench",
    "author": "LongerWu2026",
    "description": {
-    "en": "A workbench with a native AI assistant, conversation reading, task and reply tracking, AI news briefs, Linky development workflows, knowledge, web chats, and developer/data tools. Yunzhijia messaging needs its account and CLI; web chats require the desktop app.",
-    "zh": "智能工作台，集成AI助手、会话阅读、待办与回复跟进、资讯简报、Linky研发、多AI对话、知识和开发工具；云之家消息需账号及CLI，多AI对话仅桌面端可用。"
+    "en": "A workbench for AI assistance, tasks and replies, Linky development, local knowledge retrieval, news, web chats and developer tools. Optional local embeddings download a model; Yunzhijia needs its CLI/account, and web chats need the desktop app.",
+    "zh": "智能工作台，集成AI助手、待办与回复跟进、Linky研发、本地知识检索、资讯、多AI对话和开发工具；可选本地向量需下载模型，云之家需账号及CLI，多AI对话需桌面端。"
    },
    "repository": {
     "url": "https://github.com/LongerWu2026/dsh-dev-workbench"
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1793628733,
+     "version": "0.4.2",
+     "publishTimestamp": 1793751014,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -52675,8 +52797,8 @@
    },
    "versions": [
     {
-     "version": "0.3.7",
-     "publishTimestamp": 1793362559,
+     "version": "0.3.8",
+     "publishTimestamp": 1793714357,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -53168,8 +53290,8 @@
    },
    "versions": [
     {
-     "version": "0.12.3",
-     "publishTimestamp": 1793696847,
+     "version": "0.17.4",
+     "publishTimestamp": 1793771743,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -53435,8 +53557,8 @@
    },
    "versions": [
     {
-     "version": "0.1.9",
-     "publishTimestamp": 1793596930,
+     "version": "0.2.2",
+     "publishTimestamp": 1793768214,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -53783,8 +53905,8 @@
    },
    "versions": [
     {
-     "version": "11.3.0",
-     "publishTimestamp": 1793639942,
+     "version": "11.4.1",
+     "publishTimestamp": 1793758880,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54073,8 +54195,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1792327587,
+     "version": "0.3.1",
+     "publishTimestamp": 1793783382,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54450,8 +54572,8 @@
    },
    "versions": [
     {
-     "version": "0.2.3",
-     "publishTimestamp": 1793646197,
+     "version": "0.2.4",
+     "publishTimestamp": 1793760593,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54479,8 +54601,8 @@
    },
    "versions": [
     {
-     "version": "0.9.8",
-     "publishTimestamp": 1793540235,
+     "version": "0.9.9",
+     "publishTimestamp": 1793722406,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54595,8 +54717,8 @@
    },
    "versions": [
     {
-     "version": "0.4.0",
-     "publishTimestamp": 1793629560,
+     "version": "0.5.0",
+     "publishTimestamp": 1793718571,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54711,8 +54833,8 @@
    },
    "versions": [
     {
-     "version": "0.21.2",
-     "publishTimestamp": 1793362650,
+     "version": "0.21.3",
+     "publishTimestamp": 1793714420,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -54943,8 +55065,8 @@
    },
    "versions": [
     {
-     "version": "1.4.0",
-     "publishTimestamp": 1793687692,
+     "version": "1.5.0",
+     "publishTimestamp": 1793712081,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55004,8 +55126,8 @@
    },
    "versions": [
     {
-     "version": "0.3.4",
-     "publishTimestamp": 1793269355,
+     "version": "0.3.5",
+     "publishTimestamp": 1793783689,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55033,8 +55155,8 @@
    },
    "versions": [
     {
-     "version": "1.1.2",
-     "publishTimestamp": 1793675560,
+     "version": "1.1.3",
+     "publishTimestamp": 1793767506,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55468,8 +55590,8 @@
    },
    "versions": [
     {
-     "version": "0.2.12",
-     "publishTimestamp": 1793376498,
+     "version": "0.2.13",
+     "publishTimestamp": 1793773939,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55616,8 +55738,8 @@
    },
    "versions": [
     {
-     "version": "0.1.3",
-     "publishTimestamp": 1793376695,
+     "version": "0.1.4",
+     "publishTimestamp": 1793773925,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55764,8 +55886,8 @@
    },
    "versions": [
     {
-     "version": "2.13.3",
-     "publishTimestamp": 1793691231,
+     "version": "2.13.4",
+     "publishTimestamp": 1793782099,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -55880,8 +56002,8 @@
    },
    "versions": [
     {
-     "version": "0.3.21",
-     "publishTimestamp": 1793600167,
+     "version": "0.3.22",
+     "publishTimestamp": 1793711332,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -56165,16 +56287,16 @@
    "homepage": "https://github.com/regrevia/dsh-fast-mode",
    "author": "regrevia",
    "description": {
-    "en": "DeepSeek Harness's own fast mode: the same model, half the output, up to twice as fast. Switches combine freely, all prompt-side — no model swap, no lower reasoning effort. Measured over 30 task pairs: 0.505x wall clock, 42% fewer output tokens, 438/438 checks green. A few shapes get slower; benchmark and repro in the repo.",
-    "zh": "DeepSeek Harness 自己的 fast mode：同一个模型，只消耗一半的输出，最快快一倍。开关自由组合、全程提示词侧，不换模型也不降思考强度——30 对任务实测 0.505× 耗时、输出 token −42%、判分 438/438 全绿。少数任务会变慢；benchmark 与复现见仓库。"
+    "en": "DeepSeek Harness's own fast mode: the same model on the same reasoning effort, fewer output tokens and usually less wall clock, all prompt-side. Every switch can be turned off on its own; by default only the terse-output switch is on. Measured on one machine: 30 task pairs at the default trim budget 0.756x wall clock and 21% fewer output tokens; 24 pairs on real pallets/click PRs with only the trim switch on 0.805x wall clock and 23% fewer tokens. Some tasks get slower — numbers and repro in the repo.",
+    "zh": "DeepSeek Harness 自己的 fast mode：同一个模型、同样的思考强度，只花更少的输出 token，通常也更快，全程提示词侧。每个开关都能单独关掉；默认只开「精简输出」，其余开关默认关。本机实测：默认截短预算下 30 对任务 0.756× 耗时、输出 token −21%；6 个真实 `pallets/click` PR 共 24 对、只开截短开关时 0.805× 耗时、token −23%。不是所有任务都快，少数会变慢——数字与复现见仓库。"
    },
    "repository": {
     "url": "https://github.com/regrevia/dsh-fast-mode"
    },
    "versions": [
     {
-     "version": "1.7.16",
-     "publishTimestamp": 1793692143,
+     "version": "1.7.28",
+     "publishTimestamp": 1793780168,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -56492,8 +56614,8 @@
    },
    "versions": [
     {
-     "version": "0.8.6",
-     "publishTimestamp": 1793678141,
+     "version": "0.9.0",
+     "publishTimestamp": 1793781267,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -56550,8 +56672,8 @@
    },
    "versions": [
     {
-     "version": "0.7.4",
-     "publishTimestamp": 1793362479,
+     "version": "0.7.5",
+     "publishTimestamp": 1793714329,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57368,8 +57490,8 @@
    },
    "versions": [
     {
-     "version": "1.5.2",
-     "publishTimestamp": 1793678136,
+     "version": "1.5.5",
+     "publishTimestamp": 1793781287,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57397,8 +57519,8 @@
    },
    "versions": [
     {
-     "version": "0.13.3",
-     "publishTimestamp": 1793678562,
+     "version": "0.13.8",
+     "publishTimestamp": 1793777932,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57484,8 +57606,8 @@
    },
    "versions": [
     {
-     "version": "0.4.8",
-     "publishTimestamp": 1793362504,
+     "version": "0.4.9",
+     "publishTimestamp": 1793714279,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57513,8 +57635,8 @@
    },
    "versions": [
     {
-     "version": "1.3.0",
-     "publishTimestamp": 1793089832,
+     "version": "1.3.1",
+     "publishTimestamp": 1793781346,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57745,8 +57867,8 @@
    },
    "versions": [
     {
-     "version": "0.2.9",
-     "publishTimestamp": 1793376715,
+     "version": "0.2.10",
+     "publishTimestamp": 1793773961,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -57922,8 +58044,8 @@
    },
    "versions": [
     {
-     "version": "0.7.5",
-     "publishTimestamp": 1793504072,
+     "version": "0.7.6",
+     "publishTimestamp": 1793724948,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -58154,8 +58276,8 @@
    },
    "versions": [
     {
-     "version": "0.9.27",
-     "publishTimestamp": 1793603948,
+     "version": "0.9.31",
+     "publishTimestamp": 1793783050,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -58939,8 +59061,8 @@
    },
    "versions": [
     {
-     "version": "0.3.1",
-     "publishTimestamp": 1791537182,
+     "version": "0.3.2",
+     "publishTimestamp": 1793775154,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -59116,8 +59238,8 @@
    },
    "versions": [
     {
-     "version": "0.20.1",
-     "publishTimestamp": 1791879095,
+     "version": "0.21.0",
+     "publishTimestamp": 1793762798,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -59145,8 +59267,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793633100,
+     "version": "1.3.0",
+     "publishTimestamp": 1793778226,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -59377,8 +59499,8 @@
    },
    "versions": [
     {
-     "version": "2.18.0",
-     "publishTimestamp": 1793685345,
+     "version": "2.18.1",
+     "publishTimestamp": 1793727086,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -59522,8 +59644,8 @@
    },
    "versions": [
     {
-     "version": "0.12.0",
-     "publishTimestamp": 1793639216,
+     "version": "0.12.1",
+     "publishTimestamp": 1793785913,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -59551,8 +59673,8 @@
    },
    "versions": [
     {
-     "version": "0.48.0",
-     "publishTimestamp": 1793559578,
+     "version": "0.48.1",
+     "publishTimestamp": 1793760834,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -60250,8 +60372,8 @@
    },
    "versions": [
     {
-     "version": "0.2.11",
-     "publishTimestamp": 1793377730,
+     "version": "0.2.12",
+     "publishTimestamp": 1793773887,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -60369,8 +60491,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793420051,
+     "version": "0.2.4",
+     "publishTimestamp": 1793772729,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -60572,8 +60694,8 @@
    },
    "versions": [
     {
-     "version": "0.22.0",
-     "publishTimestamp": 1792470639,
+     "version": "0.23.0",
+     "publishTimestamp": 1793738110,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -61293,7 +61415,7 @@
    "author": "lolitakawayi",
    "description": {
     "en": "Adds one row to Settings → General with a switch that writes or removes a Windows logon startup entry for the DeepSeek Harness desktop app, and registers a dsh_autostart tool exposing the same status, enable and disable operations. Defaults to a single HKCU Run value, no admin rights; the startup-folder launcher mode adds an optional delay and launch arguments.",
-    "zh": "在 设置 → 通用 里加一行开关，写入或删除 DeepSeek Harness 桌面版的 Windows 登录启动项，并注册 dsh_autostart 工具暴露同一组状态查询、开启与关闭操作。默认只写一条 HKCU Run 值，不需要管理员权限；启动文件夹模式额外支持延迟秒数与启动参数。"
+    "zh": "在 设置 → 通用 里加一行「开机自启」开关，用于设置 DeepSeek Harness 桌面版的开机自启：写入或删除它的 Windows 登录启动项，并注册 dsh_autostart 工具暴露同一组状态查询、开启与关闭操作。默认只写一条 HKCU Run 值，不需要管理员权限；启动文件夹模式额外支持延迟秒数与启动参数。"
    },
    "repository": {
     "url": "https://github.com/lolitakawayi/dsh-harness-autostart"
@@ -61474,8 +61596,8 @@
    },
    "versions": [
     {
-     "version": "0.10.7",
-     "publishTimestamp": 1793630398,
+     "version": "0.11.0",
+     "publishTimestamp": 1793783329,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -61503,8 +61625,8 @@
    },
    "versions": [
     {
-     "version": "0.2.12",
-     "publishTimestamp": 1793376634,
+     "version": "0.2.13",
+     "publishTimestamp": 1793774000,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -61883,8 +62005,8 @@
    },
    "versions": [
     {
-     "version": "1.8.0",
-     "publishTimestamp": 1793648298,
+     "version": "1.8.2",
+     "publishTimestamp": 1793715012,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -62700,8 +62822,8 @@
    },
    "versions": [
     {
-     "version": "0.11.3",
-     "publishTimestamp": 1793362554,
+     "version": "0.11.4",
+     "publishTimestamp": 1793714418,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -62758,8 +62880,8 @@
    },
    "versions": [
     {
-     "version": "0.2.11",
-     "publishTimestamp": 1793376717,
+     "version": "0.2.12",
+     "publishTimestamp": 1793774043,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -62819,8 +62941,8 @@
    },
    "versions": [
     {
-     "version": "0.2.3",
-     "publishTimestamp": 1788095078,
+     "version": "0.3.0",
+     "publishTimestamp": 1793766564,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -62877,8 +62999,8 @@
    },
    "versions": [
     {
-     "version": "0.23.0",
-     "publishTimestamp": 1793515215,
+     "version": "0.27.2",
+     "publishTimestamp": 1793786277,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -62935,8 +63057,8 @@
    },
    "versions": [
     {
-     "version": "0.5.1",
-     "publishTimestamp": 1793585989,
+     "version": "0.6.0",
+     "publishTimestamp": 1793760220,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -63518,8 +63640,8 @@
    },
    "versions": [
     {
-     "version": "0.1.18",
-     "publishTimestamp": 1793345896,
+     "version": "0.1.19",
+     "publishTimestamp": 1793704114,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -64101,8 +64223,8 @@
    },
    "versions": [
     {
-     "version": "0.47.23",
-     "publishTimestamp": 1793677635,
+     "version": "0.47.25",
+     "publishTimestamp": 1793715562,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -64481,8 +64603,8 @@
    },
    "versions": [
     {
-     "version": "1.4.7",
-     "publishTimestamp": 1793458869,
+     "version": "1.5.0",
+     "publishTimestamp": 1793772229,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -64596,8 +64718,8 @@
    },
    "versions": [
     {
-     "version": "0.8.0",
-     "publishTimestamp": 1793165371,
+     "version": "0.10.0",
+     "publishTimestamp": 1793789008,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -64686,8 +64808,8 @@
    },
    "versions": [
     {
-     "version": "0.1.4",
-     "publishTimestamp": 1793419696,
+     "version": "0.1.5",
+     "publishTimestamp": 1793774051,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -64747,8 +64869,8 @@
    },
    "versions": [
     {
-     "version": "1.13.8",
-     "publishTimestamp": 1793702602,
+     "version": "1.13.9",
+     "publishTimestamp": 1793786960,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -65008,8 +65130,8 @@
    },
    "versions": [
     {
-     "version": "0.6.2",
-     "publishTimestamp": 1793203551,
+     "version": "0.7.0",
+     "publishTimestamp": 1793732488,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -65211,8 +65333,8 @@
    },
    "versions": [
     {
-     "version": "1.3.1",
-     "publishTimestamp": 1791624810,
+     "version": "1.4.0",
+     "publishTimestamp": 1793779909,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -66429,8 +66551,8 @@
    },
    "versions": [
     {
-     "version": "0.7.8",
-     "publishTimestamp": 1793201065,
+     "version": "0.7.9",
+     "publishTimestamp": 1793718343,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -66835,8 +66957,8 @@
    },
    "versions": [
     {
-     "version": "0.1.4",
-     "publishTimestamp": 1790073270,
+     "version": "0.1.5",
+     "publishTimestamp": 1793718554,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -67366,8 +67488,8 @@
    },
    "versions": [
     {
-     "version": "0.3.87",
-     "publishTimestamp": 1793647706,
+     "version": "0.3.88",
+     "publishTimestamp": 1793737803,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -67453,8 +67575,8 @@
    },
    "versions": [
     {
-     "version": "0.7.1",
-     "publishTimestamp": 1793442854,
+     "version": "0.7.10",
+     "publishTimestamp": 1793772410,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -67540,8 +67662,8 @@
    },
    "versions": [
     {
-     "version": "0.3.3",
-     "publishTimestamp": 1792675676,
+     "version": "0.3.4",
+     "publishTimestamp": 1793729874,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -67598,8 +67720,8 @@
    },
    "versions": [
     {
-     "version": "0.10.3",
-     "publishTimestamp": 1793681807,
+     "version": "0.10.5",
+     "publishTimestamp": 1793717443,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -67917,8 +68039,8 @@
    },
    "versions": [
     {
-     "version": "0.18.79",
-     "publishTimestamp": 1793689421,
+     "version": "0.18.82",
+     "publishTimestamp": 1793776913,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -69575,8 +69697,8 @@
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1792416822,
+     "version": "0.4.2",
+     "publishTimestamp": 1793758901,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -69604,8 +69726,8 @@
    },
    "versions": [
     {
-     "version": "0.5.1",
-     "publishTimestamp": 1793604519,
+     "version": "0.6.5",
+     "publishTimestamp": 1793733029,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -69633,8 +69755,8 @@
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1793668009,
+     "version": "0.4.2",
+     "publishTimestamp": 1793772783,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -69897,8 +70019,8 @@
    },
    "versions": [
     {
-     "version": "0.1.0",
-     "publishTimestamp": 1793361616,
+     "version": "0.1.2",
+     "publishTimestamp": 1793703828,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -70274,8 +70396,8 @@
    },
    "versions": [
     {
-     "version": "0.1.0",
-     "publishTimestamp": 1793508096,
+     "version": "0.2.0",
+     "publishTimestamp": 1793704806,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -70944,8 +71066,8 @@
    },
    "versions": [
     {
-     "version": "1.0.2",
-     "publishTimestamp": 1792576809,
+     "version": "1.0.3",
+     "publishTimestamp": 1793706874,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -71031,8 +71153,8 @@
    },
    "versions": [
     {
-     "version": "0.4.5",
-     "publishTimestamp": 1793694725,
+     "version": "0.5.0",
+     "publishTimestamp": 1793755778,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -71294,8 +71416,8 @@
    },
    "versions": [
     {
-     "version": "0.2.12",
-     "publishTimestamp": 1793376775,
+     "version": "0.2.13",
+     "publishTimestamp": 1793774015,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -71416,8 +71538,8 @@
    },
    "versions": [
     {
-     "version": "0.1.76",
-     "publishTimestamp": 1793554636,
+     "version": "0.1.77",
+     "publishTimestamp": 1793784899,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -71980,35 +72102,6 @@
     "sortKeys": {
      "stars": 2,
      "downloads": 1255
-    }
-   }
-  },
-  {
-   "name": "dsh-memory-tiers",
-   "homepage": "https://github.com/1129742588/dsh-memory-tiers",
-   "author": "1129742588",
-   "description": {
-    "en": "Six-tier memory plugin that captures each conversation turn, injects a stable memory block as a user snapshot, and compacts the host's own history into a single placeholder without calling a model.",
-    "zh": "六层记忆插件：自动捕获每轮对话，以 user 快照形式注入稳定的记忆块，并把宿主自带历史压成一条占位（不调用模型）。"
-   },
-   "repository": {
-    "url": "https://github.com/1129742588/dsh-memory-tiers"
-   },
-   "versions": [
-    {
-     "version": "0.8.3",
-     "publishTimestamp": 1793667322,
-     "source": {
-      "type": "npm",
-      "registry": "https://registry.npmmirror.com"
-     }
-    }
-   ],
-   "metadata": {
-    "category": "memory",
-    "sortKeys": {
-     "stars": 2,
-     "downloads": 623
     }
    }
   },
@@ -72637,8 +72730,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793684777,
+     "version": "1.2.1",
+     "publishTimestamp": 1793763384,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -72723,8 +72816,8 @@
    },
    "versions": [
     {
-     "version": "0.61.0",
-     "publishTimestamp": 1793678314,
+     "version": "0.62.1",
+     "publishTimestamp": 1793770077,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73016,8 +73109,8 @@
    },
    "versions": [
     {
-     "version": "0.1.16",
-     "publishTimestamp": 1793673654,
+     "version": "0.1.17",
+     "publishTimestamp": 1793749567,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73103,8 +73196,8 @@
    },
    "versions": [
     {
-     "version": "0.6.7",
-     "publishTimestamp": 1793362522,
+     "version": "0.6.8",
+     "publishTimestamp": 1793714249,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73370,8 +73463,8 @@
    },
    "versions": [
     {
-     "version": "0.8.1",
-     "publishTimestamp": 1793533567,
+     "version": "0.8.2",
+     "publishTimestamp": 1793730885,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73486,8 +73579,8 @@
    },
    "versions": [
     {
-     "version": "1.0.3",
-     "publishTimestamp": 1793456720,
+     "version": "1.2.0",
+     "publishTimestamp": 1793773161,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73543,8 +73636,8 @@
    },
    "versions": [
     {
-     "version": "0.5.16",
-     "publishTimestamp": 1793689851,
+     "version": "0.5.18",
+     "publishTimestamp": 1793786552,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73691,8 +73784,8 @@
    },
    "versions": [
     {
-     "version": "0.8.11",
-     "publishTimestamp": 1792598147,
+     "version": "0.8.12",
+     "publishTimestamp": 1793784802,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73720,8 +73813,8 @@
    },
    "versions": [
     {
-     "version": "1.4.32",
-     "publishTimestamp": 1793701656,
+     "version": "1.4.34",
+     "publishTimestamp": 1793789105,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -73836,8 +73929,8 @@
    },
    "versions": [
     {
-     "version": "0.28.0",
-     "publishTimestamp": 1793696938,
+     "version": "0.28.2",
+     "publishTimestamp": 1793708846,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -74126,8 +74219,8 @@
    },
    "versions": [
     {
-     "version": "0.2.10",
-     "publishTimestamp": 1793685373,
+     "version": "0.2.11",
+     "publishTimestamp": 1793755165,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -74390,8 +74483,8 @@
    },
    "versions": [
     {
-     "version": "0.3.3",
-     "publishTimestamp": 1793027700,
+     "version": "0.3.6",
+     "publishTimestamp": 1793763121,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -74548,35 +74641,6 @@
     "sortKeys": {
      "stars": 8,
      "downloads": 1775
-    }
-   }
-  },
-  {
-   "name": "dsh-model-probe",
-   "homepage": "https://github.com/xiaomao49/dsh-model-probe",
-   "author": "xiaomao49",
-   "description": {
-    "en": "Measures what an llm-pi-ai endpoint really accepts — context window from its own model list, output-token limit and reasoning levels read out of its own range errors, image support from a generated test image — then reports declared values that contradict that evidence and rewrites them only after confirmation.",
-    "zh": "直接实测 llm-pi-ai 端点真正接受的能力——从它自己的模型列表取上下文窗口，从它自己的报错反推输出上限与推理档位，用生成的测试图验证图像支持——再报告与证据不符的声明值，确认后才改写。"
-   },
-   "repository": {
-    "url": "https://github.com/xiaomao49/dsh-model-probe"
-   },
-   "versions": [
-    {
-     "version": "0.1.20",
-     "publishTimestamp": 1790713136,
-     "source": {
-      "type": "npm",
-      "registry": "https://registry.npmmirror.com"
-     }
-    }
-   ],
-   "metadata": {
-    "category": "model",
-    "sortKeys": {
-     "stars": 0,
-     "downloads": 737
     }
    }
   },
@@ -74759,16 +74823,16 @@
    "homepage": "https://github.com/GaoHu1997/dsh-model-think-level",
    "author": "GaoHu1997",
    "description": {
-    "en": "Third-party model settings for DeepSeek Harness: pick a provider and a model in the composer menu, gate a model's thinking level with one switch on the official Models page card, and configure per-route request headers.",
-    "zh": "为 DeepSeek Harness 中的第三方模型设置思考等级：在输入框菜单里选择服务商与模型，在官方模型页卡片上用一个开关控制思考等级，并可配置按路由的请求头。"
+    "en": "Thinking levels, image input and image generation for third-party models in the official Models page; multiple keys per provider routed by model, automatic failover between keys on failure, per-route custom request headers, and balance display.",
+    "zh": "在官方「模型」页为第三方模型补上思考等级、图片输入与生图；一个供应商可配多把密钥，按模型分流、失败自动换密钥重试，并可配置按路由的请求头、查看余额。"
    },
    "repository": {
     "url": "https://github.com/GaoHu1997/dsh-model-think-level"
    },
    "versions": [
     {
-     "version": "2.3.4",
-     "publishTimestamp": 1793675672,
+     "version": "2.3.5",
+     "publishTimestamp": 1793705442,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -75260,8 +75324,8 @@
    },
    "versions": [
     {
-     "version": "1.1.1",
-     "publishTimestamp": 1793685948,
+     "version": "1.1.3",
+     "publishTimestamp": 1793783353,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -75695,8 +75759,8 @@
    },
    "versions": [
     {
-     "version": "0.3.3",
-     "publishTimestamp": 1793430802,
+     "version": "0.5.3",
+     "publishTimestamp": 1793712750,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -75782,8 +75846,8 @@
    },
    "versions": [
     {
-     "version": "1.2.25",
-     "publishTimestamp": 1793626762,
+     "version": "1.3.3",
+     "publishTimestamp": 1793772533,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -76274,8 +76338,8 @@
    },
    "versions": [
     {
-     "version": "2.9.1",
-     "publishTimestamp": 1793681366,
+     "version": "2.9.4",
+     "publishTimestamp": 1793730599,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -76303,8 +76367,8 @@
    },
    "versions": [
     {
-     "version": "0.1.9",
-     "publishTimestamp": 1793698048,
+     "version": "0.2.1",
+     "publishTimestamp": 1793778189,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -76361,8 +76425,8 @@
    },
    "versions": [
     {
-     "version": "0.3.0",
-     "publishTimestamp": 1793274099,
+     "version": "0.4.1",
+     "publishTimestamp": 1793778249,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -77173,8 +77237,8 @@
    },
    "versions": [
     {
-     "version": "0.8.4",
-     "publishTimestamp": 1793606177,
+     "version": "0.8.7",
+     "publishTimestamp": 1793784546,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -77202,8 +77266,8 @@
    },
    "versions": [
     {
-     "version": "0.8.5",
-     "publishTimestamp": 1793606482,
+     "version": "0.8.6",
+     "publishTimestamp": 1793780192,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -77231,8 +77295,8 @@
    },
    "versions": [
     {
-     "version": "0.3.13",
-     "publishTimestamp": 1793609637,
+     "version": "0.3.14",
+     "publishTimestamp": 1793780313,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -77260,8 +77324,8 @@
    },
    "versions": [
     {
-     "version": "0.3.7",
-     "publishTimestamp": 1793685180,
+     "version": "0.3.8",
+     "publishTimestamp": 1793755212,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -77956,8 +78020,8 @@
    },
    "versions": [
     {
-     "version": "1.4.2",
-     "publishTimestamp": 1793605098,
+     "version": "1.5.0",
+     "publishTimestamp": 1793777053,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -78162,8 +78226,8 @@
    },
    "versions": [
     {
-     "version": "0.2.12",
-     "publishTimestamp": 1793376901,
+     "version": "0.2.13",
+     "publishTimestamp": 1793774127,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -78893,8 +78957,8 @@
    },
    "versions": [
     {
-     "version": "0.8.14",
-     "publishTimestamp": 1793115278,
+     "version": "0.8.16",
+     "publishTimestamp": 1793726589,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -78980,8 +79044,8 @@
    },
    "versions": [
     {
-     "version": "0.9.11",
-     "publishTimestamp": 1793692488,
+     "version": "0.9.12",
+     "publishTimestamp": 1793782163,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -79882,8 +79946,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0",
-     "publishTimestamp": 1793572783,
+     "version": "0.7.1",
+     "publishTimestamp": 1793711373,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -80027,8 +80091,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793064006,
+     "version": "0.2.3",
+     "publishTimestamp": 1793762872,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -80201,8 +80265,8 @@
    },
    "versions": [
     {
-     "version": "0.4.9",
-     "publishTimestamp": 1793358699,
+     "version": "0.4.11",
+     "publishTimestamp": 1793769313,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -81193,8 +81257,8 @@
    },
    "versions": [
     {
-     "version": "0.9.2",
-     "publishTimestamp": 1793521911,
+     "version": "0.9.3",
+     "publishTimestamp": 1793709526,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -81309,8 +81373,8 @@
    },
    "versions": [
     {
-     "version": "0.1.2",
-     "publishTimestamp": 1793376914,
+     "version": "0.1.3",
+     "publishTimestamp": 1793774155,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -81660,8 +81724,8 @@
    },
    "versions": [
     {
-     "version": "0.1.4",
-     "publishTimestamp": 1793683378,
+     "version": "0.2.0",
+     "publishTimestamp": 1793788101,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -82101,8 +82165,8 @@
    },
    "versions": [
     {
-     "version": "0.7.4",
-     "publishTimestamp": 1793539786,
+     "version": "0.8.0",
+     "publishTimestamp": 1793782444,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -82217,8 +82281,8 @@
    },
    "versions": [
     {
-     "version": "0.4.8",
-     "publishTimestamp": 1793465896,
+     "version": "0.4.9",
+     "publishTimestamp": 1793781063,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -82238,8 +82302,8 @@
    "homepage": "https://github.com/yupaoa/dsh-persona-switcher",
    "author": "yupaoa",
    "description": {
-    "en": "Switches the running session's persona and speaking style in place with `/role <id>`, adds the persona as its own prompt section after the deployment persona (it never overrides the host identity line) without touching tools or skills; roles are plain `ROLE.md` files and each switch is announced in the transcript.",
-    "zh": "用 `/role <id>` 就地切换当前会话的人设与说话风格，以独立的 prompt section 追加在部署人设之后（不替换宿主身份行），不动工具与技能；角色是角色库里的 `ROLE.md` 纯文本文件，切换后会在会话里声明一次。"
+    "en": "Switches the running session's persona and speaking style in place, via the composer's persona button or `/role`; each persona can bind its own on-screen mascot, the persona is appended as its own prompt section after the deployment persona without touching tools or skills, and each switch is announced in the transcript.",
+    "zh": "用输入框的「人设」按钮或 `/role` 指令就地切换当前会话的人设与说话风格，每个人设可单独绑定屏幕吉祥物立绘；人设作为独立的 prompt section 追加在部署人设之后，不动工具与技能，切换人设后会在会话里声明一次。"
    },
    "repository": {
     "url": "https://github.com/yupaoa/dsh-persona-switcher"
@@ -82536,8 +82600,8 @@
    },
    "versions": [
     {
-     "version": "3.4.1",
-     "publishTimestamp": 1793109076,
+     "version": "3.5.0",
+     "publishTimestamp": 1793788633,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -82565,8 +82629,8 @@
    },
    "versions": [
     {
-     "version": "1.27.0",
-     "publishTimestamp": 1793262933,
+     "version": "1.27.1",
+     "publishTimestamp": 1793434552,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -82713,8 +82777,8 @@
    },
    "versions": [
     {
-     "version": "0.1.4",
-     "publishTimestamp": 1793466124,
+     "version": "0.1.6",
+     "publishTimestamp": 1793774116,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -84279,8 +84343,8 @@
    },
    "versions": [
     {
-     "version": "0.2.13",
-     "publishTimestamp": 1793423896,
+     "version": "0.2.14",
+     "publishTimestamp": 1793770742,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -84677,8 +84741,8 @@
    "homepage": "https://github.com/keyblues/dsh-plugin-everything",
    "author": "keyblues",
    "description": {
-    "en": "Whole-disk file search for the agent through the official Everything SDK: the plugin calls Everything64.dll in-process over N-API FFI - no es.exe child process and no HTTP port - and returns full paths, sizes and modified times in milliseconds, with dedicated Web UI cards for search and status. Windows x64 only; requires voidtools Everything 1.4+ installed and running (the plugin can auto-start it).",
-    "zh": "通过官方 Everything SDK 为 Agent 提供全盘文件搜索：插件经 N-API FFI 在进程内调用 Everything64.dll，不启动 es.exe、不监听 HTTP 端口，毫秒级返回完整路径、大小与修改时间，并为 Web 界面提供搜索与状态两张工具卡片。仅支持 Windows x64，且需安装并运行 voidtools Everything 1.4 以上（已安装时插件可自动拉起）。"
+    "en": "Whole-disk file search on Windows: ask for files or folders by name, path, extension, size or modified date and get matches from the local voidtools Everything index in milliseconds, with full paths, sizes and modified times. A second card reports whether Everything is reachable and how many items it indexes. Ships the official Everything SDK, so no es.exe or HTTP server is needed; Everything 1.4+ must be installed and running (the plugin can start it).",
+    "zh": "Windows 全盘文件搜索：按文件名、路径、扩展名、大小或修改时间检索，毫秒级从本机 voidtools Everything 索引返回匹配的文件与文件夹（完整路径、大小、修改时间）；另一张卡片显示 Everything 是否可达与索引条目数。内置官方 Everything SDK，不需要 es.exe 或 HTTP 服务；需安装并运行 Everything 1.4 以上（插件可自动拉起）。"
    },
    "repository": {
     "url": "https://github.com/keyblues/dsh-plugin-everything"
@@ -85120,14 +85184,14 @@
    },
    "versions": [
     {
-     "version": "0.4.0",
-     "publishTimestamp": 1793685006,
+     "version": "0.4.2",
+     "publishTimestamp": 1793717328,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
      },
      "engines": {
-      "dsh": ">=0.2.1-0 <0.3.0"
+      "dsh": ">=0.2.2-0 <0.3.0"
      }
     }
    ],
@@ -85181,8 +85245,8 @@
    },
    "versions": [
     {
-     "version": "1.2.1",
-     "publishTimestamp": 1793702801,
+     "version": "2.2.1",
+     "publishTimestamp": 1793770535,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -85822,8 +85886,8 @@
    },
    "versions": [
     {
-     "version": "0.13.3",
-     "publishTimestamp": 1793585433,
+     "version": "0.16.0",
+     "publishTimestamp": 1793783102,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -85880,8 +85944,8 @@
    },
    "versions": [
     {
-     "version": "0.5.4",
-     "publishTimestamp": 1792679800,
+     "version": "0.5.10",
+     "publishTimestamp": 1793723033,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -86054,8 +86118,8 @@
    },
    "versions": [
     {
-     "version": "0.11.1",
-     "publishTimestamp": 1792725275,
+     "version": "0.11.2",
+     "publishTimestamp": 1793716285,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -86402,8 +86466,8 @@
    },
    "versions": [
     {
-     "version": "1.9.3",
-     "publishTimestamp": 1793619515,
+     "version": "1.9.4",
+     "publishTimestamp": 1793716794,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -87267,16 +87331,16 @@
    "homepage": "https://github.com/leoan698-tom/dsh-sessivra",
    "author": "leoan698-tom",
    "description": {
-    "en": "Session-to-session messaging with linked replies, native context references, and conversation trees in DeepSeek Harness.",
-    "zh": "在 DSH 会话之间发送消息和任务、接收关联回复，并提供上下文引用与会话树。"
+    "en": "Sessivra: session messaging and managed tasks with shared decisions, linked replies, acceptance before queued work, context references and conversation trees. npm package dsh-plugin-sessivra.",
+    "zh": "Sessivra：DSH 会话通信与任务协作，支持共享问题和裁决、自动回传结果、关联回复、验收后放行、上下文引用与会话树。npm 包名 dsh-plugin-sessivra。"
    },
    "repository": {
     "url": "https://github.com/leoan698-tom/dsh-sessivra"
    },
    "versions": [
     {
-     "version": "0.3.0-dev.20",
-     "publishTimestamp": 1793600221,
+     "version": "0.3.0-dev.25",
+     "publishTimestamp": 1793719029,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -88440,8 +88504,8 @@
    },
    "versions": [
     {
-     "version": "0.14.0",
-     "publishTimestamp": 1793640746,
+     "version": "0.18.0",
+     "publishTimestamp": 1793779454,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -88588,8 +88652,8 @@
    },
    "versions": [
     {
-     "version": "1.0.0",
-     "publishTimestamp": 1793546066,
+     "version": "1.0.2",
+     "publishTimestamp": 1793761059,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -88710,8 +88774,8 @@
    },
    "versions": [
     {
-     "version": "1.7.2",
-     "publishTimestamp": 1793697948,
+     "version": "1.7.5",
+     "publishTimestamp": 1793768008,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -89000,8 +89064,8 @@
    },
    "versions": [
     {
-     "version": "1.4.3",
-     "publishTimestamp": 1793682424,
+     "version": "1.5.7",
+     "publishTimestamp": 1793783595,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -89260,8 +89324,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1793676250,
+     "version": "0.3.0",
+     "publishTimestamp": 1793773409,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -89901,8 +89965,8 @@
    },
    "versions": [
     {
-     "version": "0.20.3",
-     "publishTimestamp": 1793362564,
+     "version": "0.20.4",
+     "publishTimestamp": 1793714241,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -90542,8 +90606,8 @@
    },
    "versions": [
     {
-     "version": "0.26.33",
-     "publishTimestamp": 1793688472,
+     "version": "0.26.35",
+     "publishTimestamp": 1793763437,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -90658,8 +90722,8 @@
    },
    "versions": [
     {
-     "version": "2.4.10",
-     "publishTimestamp": 1793671861,
+     "version": "2.4.11",
+     "publishTimestamp": 1793706630,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -91238,8 +91302,8 @@
    },
    "versions": [
     {
-     "version": "1.10.2",
-     "publishTimestamp": 1793680039,
+     "version": "1.11.2",
+     "publishTimestamp": 1793783896,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -91441,8 +91505,8 @@
    },
    "versions": [
     {
-     "version": "0.2.10",
-     "publishTimestamp": 1793189733,
+     "version": "0.2.11",
+     "publishTimestamp": 1793785799,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -91618,8 +91682,8 @@
    },
    "versions": [
     {
-     "version": "1.2.0",
-     "publishTimestamp": 1793669669,
+     "version": "1.3.1",
+     "publishTimestamp": 1793779500,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -92374,8 +92438,8 @@
    },
    "versions": [
     {
-     "version": "0.7.1",
-     "publishTimestamp": 1793654404,
+     "version": "0.7.3",
+     "publishTimestamp": 1793749700,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -92432,8 +92496,8 @@
    },
    "versions": [
     {
-     "version": "0.2.11",
-     "publishTimestamp": 1793002153,
+     "version": "0.2.12",
+     "publishTimestamp": 1793786592,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -93076,8 +93140,8 @@
    },
    "versions": [
     {
-     "version": "0.1.18",
-     "publishTimestamp": 1793200584,
+     "version": "0.1.19",
+     "publishTimestamp": 1793718060,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -93941,8 +94005,8 @@
    "homepage": "https://github.com/hulibuld/dsh-reading",
    "author": "hulibuld",
    "description": {
-    "en": "Reads EPUB, MOBI, AZW3, TXT and PDF books in a side panel with pagination, table-of-contents jumping, highlights, notes, bookmarks, full-text search, anchored AI questions, per-chapter distillation, and Legado-compatible book-source search that adds online books chapter by chapter. PDF support is text-based only; scanned or encrypted PDFs are rejected.",
-    "zh": "在侧边面板里读 EPUB、MOBI、AZW3、TXT、PDF 五种格式的书：分页、目录跳转与书内链接跳转、划线记事与书签、全文搜索、带原文锚点的 AI 问答、按章蒸馏，并能导入 Legado 格式书源按章抓取在线书籍。PDF 只支持文字版，扫描件与加密 PDF 会被拒绝。"
+    "en": "Reads EPUB, MOBI, AZW3, TXT and PDF books in a side panel with pagination, table-of-contents jumping, highlights, notes, bookmarks, full-text search, anchored AI questions, per-chapter distillation, Legado-compatible book-source search that adds online books chapter by chapter, and a bundled reading-coach skill. PDF support is text-based only; scanned or encrypted PDFs are rejected.",
+    "zh": "在侧边栏里读 EPUB、MOBI、AZW3、TXT、PDF 五种格式的书：分页、目录跳转与书内链接跳转、划线笔记与书签、全文搜索、带原文锚点的 AI 问答、按章蒸馏，并能导入 Legado 格式书源按章抓取在线书籍，随包还带一个陪读教练 skill。PDF 只支持文字版，扫描件与加密 PDF 会被拒绝。"
    },
    "repository": {
     "url": "https://github.com/hulibuld/dsh-reading"
@@ -95028,8 +95092,8 @@
    },
    "versions": [
     {
-     "version": "0.8.71",
-     "publishTimestamp": 1793677393,
+     "version": "0.8.72",
+     "publishTimestamp": 1793711114,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -95550,8 +95614,8 @@
    },
    "versions": [
     {
-     "version": "0.10.3",
-     "publishTimestamp": 1793362586,
+     "version": "0.10.4",
+     "publishTimestamp": 1793714291,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -96510,8 +96574,8 @@
    },
    "versions": [
     {
-     "version": "1.7.1",
-     "publishTimestamp": 1793302951,
+     "version": "1.7.2",
+     "publishTimestamp": 1793714421,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -96771,8 +96835,8 @@
    },
    "versions": [
     {
-     "version": "0.12.0",
-     "publishTimestamp": 1793631809,
+     "version": "1.0.0",
+     "publishTimestamp": 1793781397,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -97119,8 +97183,8 @@
    },
    "versions": [
     {
-     "version": "0.9.8",
-     "publishTimestamp": 1793362579,
+     "version": "0.9.9",
+     "publishTimestamp": 1793714252,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -97227,16 +97291,16 @@
    "homepage": "https://github.com/YunaAloft/dsh-rtk-workbench",
    "author": "YunaAloft",
    "description": {
-    "en": "Brings rtk (Rust Token Killer) to DeepSeek Harness: rewrites eligible shell commands to their rtk equivalents and compresses large tool output through the rtk hook protocol before it reaches the model, with a per-platform rtk binary bundled so nothing extra needs installing.",
-    "zh": "把 rtk（Rust Token Killer）接入 DeepSeek Harness：把可改写的 shell 命令交给 rtk 等价命令执行，并在工具输出进入模型前通过 rtk 的 hook 协议压缩大结果；随包附带各平台 rtk 二进制，无需另行安装。"
+    "en": "One plugin brings the rtk token-saving setup from Claude Code to DeepSeek Harness: commands rtk can rewrite are rewritten, and builds, tests and logs that rewriting cannot reach are compressed too; common commands such as git, cargo, npm, pytest and docker are covered (rtk itself supports 100+ commands). After compression the model is told what was elided and how to recover it — when the sandbox cannot reach the rtk store, the original is saved separately and its path is given — and `/rtk stats` shows how much was saved. When a rewrite is unreliable the original command runs as usual: if rtk cannot run, or the command rtk returns would drop arguments, nothing breaks. The rtk binary ships with the package, so mainstream platforms need no separate rtk install, unlike most other rtk plugins.",
+    "zh": "一个插件把 Claude Code 里 rtk 的省 token 机制接进 DSH：能改写的命令交给 rtk 重写，改写够不着的构建、测试、日志也会被压缩；git、cargo、npm、pytest、docker 等常见命令都有覆盖（rtk 本身支持 100 多种）。压缩后会告诉模型省略了什么、怎么找回原文——沙箱里读不到 rtk 存储时，原文会另存一份并把路径给出来；省了多少可以用 `/rtk stats` 看。改写不可靠时原命令照常执行：rtk 跑不起来，或 rtk 给出的命令会丢掉参数，都不会让命令失败。rtk 二进制随包，主流平台不用像多数其他 rtk 插件那样先自行安装 rtk。"
    },
    "repository": {
     "url": "https://github.com/YunaAloft/dsh-rtk-workbench"
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1793581112,
+     "version": "0.2.0",
+     "publishTimestamp": 1793715398,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -97528,8 +97592,8 @@
    },
    "versions": [
     {
-     "version": "1.3.1",
-     "publishTimestamp": 1793563210,
+     "version": "1.4.0",
+     "publishTimestamp": 1793719718,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -97679,8 +97743,8 @@
    },
    "versions": [
     {
-     "version": "0.1.1",
-     "publishTimestamp": 1793377058,
+     "version": "0.1.2",
+     "publishTimestamp": 1793774073,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -98059,8 +98123,8 @@
    },
    "versions": [
     {
-     "version": "0.1.13",
-     "publishTimestamp": 1793602723,
+     "version": "0.1.47",
+     "publishTimestamp": 1793714990,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -98323,8 +98387,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0",
-     "publishTimestamp": 1792963436,
+     "version": "0.7.2",
+     "publishTimestamp": 1793733963,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -98692,8 +98756,8 @@
    "homepage": "https://github.com/latte03/dsh-select-quote",
    "author": "latte03",
    "description": {
-    "en": "Select text in the dsh web conversation to attach it as an annotation to your next message. The source text keeps a dashed highlight with an ordinal badge in place, and the composer summary lists, edits and jumps back to each annotation.",
-    "zh": "在 dsh 网页版对话里划词，把选中文本作为批注附到下一条消息。原文位置保留虚线高亮和序号角标，输入框上方的批注摘要可查看、编辑并跳回每一条批注。"
+    "en": "Adds selection annotations, in-place translation, sidebar subagent questions and default-browser link opening to DSH. The selected text rides along with your next message, the source keeps its highlight and ordinal mark for jumping back, the menu opens on selection or from the right-click menu, and the translation model can be picked separately.",
+    "zh": "为 DSH 增加划词批注、引用、划词翻译、侧边子代理提问，链接用默认浏览器打开。选中的原文连同评论随下一条消息交给模型，正文保留高亮与序号角标、可跳回原文；菜单可划词浮出或从右键打开，翻译可单独指定模型。"
    },
    "repository": {
     "url": "https://github.com/latte03/dsh-select-quote"
@@ -98709,7 +98773,7 @@
     }
    ],
    "metadata": {
-    "category": "ui",
+    "category": "tools",
     "sortKeys": {
      "stars": 3,
      "downloads": 3189
@@ -99112,8 +99176,8 @@
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1792401788,
+     "version": "0.5.0",
+     "publishTimestamp": 1793705929,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -99286,8 +99350,8 @@
    },
    "versions": [
     {
-     "version": "2.5.6",
-     "publishTimestamp": 1793629490,
+     "version": "2.5.9",
+     "publishTimestamp": 1793764877,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -99578,8 +99642,8 @@
    },
    "versions": [
     {
-     "version": "1.4.7",
-     "publishTimestamp": 1793430016,
+     "version": "1.4.13",
+     "publishTimestamp": 1793726936,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -99839,8 +99903,8 @@
    },
    "versions": [
     {
-     "version": "1.8.6",
-     "publishTimestamp": 1791616992,
+     "version": "1.9.0",
+     "publishTimestamp": 1793785695,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -99984,8 +100048,8 @@
    },
    "versions": [
     {
-     "version": "0.9.0",
-     "publishTimestamp": 1793628612,
+     "version": "0.9.26",
+     "publishTimestamp": 1793712045,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -100157,8 +100221,8 @@
    },
    "versions": [
     {
-     "version": "0.6.1",
-     "publishTimestamp": 1792948174,
+     "version": "0.7.0",
+     "publishTimestamp": 1793671823,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -100534,8 +100598,8 @@
    },
    "versions": [
     {
-     "version": "1.1.1",
-     "publishTimestamp": 1793456054,
+     "version": "1.1.2",
+     "publishTimestamp": 1793713996,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -100853,8 +100917,8 @@
    },
    "versions": [
     {
-     "version": "0.7.9",
-     "publishTimestamp": 1792727954,
+     "version": "0.8.0",
+     "publishTimestamp": 1793785722,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -101027,8 +101091,8 @@
    },
    "versions": [
     {
-     "version": "1.4.2",
-     "publishTimestamp": 1793514885,
+     "version": "1.6.0",
+     "publishTimestamp": 1793782573,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -101338,16 +101402,16 @@
    "homepage": "https://github.com/xuedipiaofei/dsh-session-title-stamp",
    "author": "xuedipiaofei",
    "description": {
-    "en": "Keeps DSH session titles in DATE | CATEGORY | NAME with turn-aware auto-retitle, manual refresh, and hover cost/duration.",
-    "zh": "把 DSH 会话标题固定为「日期 | 分类 | 名称」，支持回答后自动重算、手动刷新和悬停成本/耗时。"
+    "en": "Keeps DSH session titles in DATE | CATEGORY | NAME with turn-aware auto-retitle, a settings page, and hover duration/cost/token stats.",
+    "zh": "把 DSH 会话标题固定为「日期 | 分类 | 名称」，支持回答后自动重算、设置页，以及悬停查看耗时/估算成本/token。"
    },
    "repository": {
     "url": "https://github.com/xuedipiaofei/dsh-session-title-stamp"
    },
    "versions": [
     {
-     "version": "0.5.0",
-     "publishTimestamp": 1793541635,
+     "version": "0.7.1",
+     "publishTimestamp": 1793723659,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -101751,8 +101815,8 @@
    },
    "versions": [
     {
-     "version": "0.6.3",
-     "publishTimestamp": 1792424754,
+     "version": "0.6.4",
+     "publishTimestamp": 1793716993,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -102156,8 +102220,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1790441044,
+     "version": "0.2.2",
+     "publishTimestamp": 1792949015,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -102525,16 +102589,16 @@
    "homepage": "https://github.com/TLEWA/dsh-sidebar-row-menu",
    "author": "TLEWA",
    "description": {
-    "en": "Right-click menus for DSH sidebar rows: workspace rows get new session, rename, open in VS Code, open in Explorer, copy path and delete; session rows open their native menu at the pointer, extended with VS Code and Explorer entries. Adapted from miao-ge/dsh-sidebar-context-menu and 0imzero/dsh-workspace-menu; do not install it alongside either - all of them attach right-click menus to the same sidebar rows.",
-    "zh": "DSH 侧边栏行右键菜单：工作区行可新建会话、重命名、在 VS Code 打开、在资源管理器中打开、复制路径和删除；会话行在指针处展开原生菜单，并追加 VS Code 与资源管理器两项。 改编自 miao-ge/dsh-sidebar-context-menu 与 0imzero/dsh-workspace-menu，请勿与它们同时安装——三者都会给同一批侧边栏行挂右键菜单。"
+    "en": "Right-click menus for DSH sidebar rows: workspace rows get new session, rename, pinned open-with apps, an open-with submenu, copy path and delete; session rows open their native menu at the pointer, extended with pinned open-with apps, an open-with submenu, and permanent deletion of archived sessions. Adapted from miao-ge/dsh-sidebar-context-menu and 0imzero/dsh-workspace-menu; do not install it alongside either - all of them attach right-click menus to the same sidebar rows.",
+    "zh": "DSH 侧边栏行右键菜单：工作区行可新建会话、重命名、置顶打开方式、打开方式子菜单、复制路径和删除；会话行在指针处展开原生菜单，并追加置顶打开方式、打开方式子菜单，以及已归档会话的永久删除。 改编自 miao-ge/dsh-sidebar-context-menu 与 0imzero/dsh-workspace-menu，请勿与它们同时安装——三者都会给同一批侧边栏行挂右键菜单。"
    },
    "repository": {
     "url": "https://github.com/TLEWA/dsh-sidebar-row-menu"
    },
    "versions": [
     {
-     "version": "1.4.0",
-     "publishTimestamp": 1793694314,
+     "version": "1.4.2",
+     "publishTimestamp": 1793716748,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -102707,8 +102771,8 @@
    },
    "versions": [
     {
-     "version": "2.1.9",
-     "publishTimestamp": 1793665853,
+     "version": "2.1.11",
+     "publishTimestamp": 1793771778,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -103174,8 +103238,8 @@
    },
    "versions": [
     {
-     "version": "0.3.30",
-     "publishTimestamp": 1793284554,
+     "version": "0.3.31",
+     "publishTimestamp": 1793715626,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -103232,8 +103296,8 @@
    },
    "versions": [
     {
-     "version": "1.0.0",
-     "publishTimestamp": 1789022557,
+     "version": "1.0.1",
+     "publishTimestamp": 1793779233,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -103340,8 +103404,8 @@
    "homepage": "https://github.com/AlLHHH/dsh-skill-palette",
    "author": "AlLHHH",
    "description": {
-    "en": "Puts a skill picker next to the composer (categories, favorites, search, one-click Chinese translation) and shows which skills each reply used under the answer.",
-    "zh": "输入框旁边有技能面板（分类、收藏、搜索、一键翻译），回答下方显示这一轮用到了哪些技能。"
+    "en": "A skills button at the bottom-right of the input box: one click opens every installed skill with search, categories and favourites, and the skill you pick is inserted into the box. Each answer also lists the skills that turn actually used.",
+    "zh": "输入框右下方有一个「技能」按钮，点开就能搜技能、按分类浏览、收藏常用的，选中后直接插进输入框；回答下方还会列出这一轮真正调用过的技能。"
    },
    "repository": {
     "url": "https://github.com/AlLHHH/dsh-skill-palette"
@@ -103496,8 +103560,8 @@
    },
    "versions": [
     {
-     "version": "0.1.0",
-     "publishTimestamp": 1787275988,
+     "version": "0.2.1",
+     "publishTimestamp": 1793782833,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104108,8 +104172,8 @@
    },
    "versions": [
     {
-     "version": "0.4.7",
-     "publishTimestamp": 1793362555,
+     "version": "0.4.8",
+     "publishTimestamp": 1793714306,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104484,8 +104548,8 @@
    },
    "versions": [
     {
-     "version": "0.1.4",
-     "publishTimestamp": 1793472597,
+     "version": "0.1.5",
+     "publishTimestamp": 1793757795,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104600,8 +104664,8 @@
    },
    "versions": [
     {
-     "version": "0.9.0",
-     "publishTimestamp": 1793245157,
+     "version": "0.10.0",
+     "publishTimestamp": 1793672481,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104629,8 +104693,8 @@
    },
    "versions": [
     {
-     "version": "0.11.0",
-     "publishTimestamp": 1793494307,
+     "version": "0.12.0",
+     "publishTimestamp": 1793770686,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104687,8 +104751,8 @@
    },
    "versions": [
     {
-     "version": "0.9.0",
-     "publishTimestamp": 1793602402,
+     "version": "1.0.0",
+     "publishTimestamp": 1793783987,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -104977,8 +105041,8 @@
    },
    "versions": [
     {
-     "version": "0.5.9",
-     "publishTimestamp": 1793362570,
+     "version": "0.5.10",
+     "publishTimestamp": 1793714256,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106055,8 +106119,8 @@
    },
    "versions": [
     {
-     "version": "0.11.2",
-     "publishTimestamp": 1793167190,
+     "version": "0.11.3",
+     "publishTimestamp": 1793769677,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106316,8 +106380,8 @@
    },
    "versions": [
     {
-     "version": "0.24.0",
-     "publishTimestamp": 1793672258,
+     "version": "0.24.2",
+     "publishTimestamp": 1793751695,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106403,8 +106467,8 @@
    },
    "versions": [
     {
-     "version": "0.3.9",
-     "publishTimestamp": 1793199511,
+     "version": "0.3.10",
+     "publishTimestamp": 1793718113,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106630,16 +106694,16 @@
    "homepage": "https://github.com/mrzturn/dsh-switchman",
    "author": "mrzturn",
    "description": {
-    "en": "Turns the main model into a dispatcher: six pools (economy/mechanical/main/hard/vision/review) route each subtask to the right model, with ranking and per-route reasoning-effort pins. A context watermark (50k/90k/130k) nudges delegation early and, at the force level, forks a backup session, writes a handover doc, compacts, and continues without losing in-flight subagent work; /ctx-pause, /ctx-resume and /ctx-handover pause, resume or trigger the same machinery by hand. Optional Agent Teams mode adds persistent teammates and a shared task board; /vision lets text-only models handle images via the vision pool; tiered verification sends bigger diffs to a tester and an independent reviewer. Settings UI, READMEs and the conversation / code-comment / document language preferences all cover the same 11 languages (en, zh, zh-TW, ja, ko, de, es, fr, it, pt, ru); the plugin UI follows the DSH app locale unless forced otherwise. Bundles three skills: read-only MySQL/Redis verification, commit-message generation, and a requirements/design document convention.",
-    "zh": "把主模型变成调度员：六个派发池（轻量/机械/主力/高难/多模态/复审）按活配模型，支持排序与按路线钉选思考强度。上下文水位（50k/90k/130k）先提醒委派，到顶自动 fork 备份会话、写交接文档、压缩后续跑，跑着的子智能体不丢；/ctx-pause、/ctx-resume、/ctx-handover 可随时手动暂停、恢复或发起同一套交接。可选 Agent Teams 模式带来常驻队友与共享任务板；/vision 让纯文本模型也能看图；分级验证给大改动配 tester 和独立复审。设置界面、README 与回复/代码注释/文档语言偏好覆盖同一套 11 种语言（英、简中、繁中、日、韩、德、西、法、意、葡、俄），界面默认跟随 DSH 应用语言。内置三个技能：MySQL/Redis 只读核验、commit 文案生成、需求与设计文档规范。"
+    "en": "Old conversation is folded into short summaries by a side model before the window fills (on-disk ledger survives restarts and re-anchors after host compaction), so long sessions stop getting more expensive every turn — one real full-day session: 6 folds replaced 209 old messages and the live context stayed in the tens of thousands of tokens. The session model picks the model per subtask across six pools (economy/mechanical/main/hard/vision/review); or pick Auto and a small intent classifier routes each message itself, switching only past a confidence threshold to keep prompt caches warm. A three-line watermark ends in an automatic four-step handover (fork backup, handover doc, compact, wake) without losing in-flight subagents; /ctx-pause, /ctx-resume and /ctx-handover keep it manual when wanted. Optional Agent Teams mode adds teammates and a shared task board; /vision gives text-only models eyes via the vision pool; tiered verification sends bigger diffs to a tester plus an independent reviewer. Settings UI, READMEs and language preferences cover the same 11 languages. Bundles three skills: read-only MySQL/Redis verification, commit-message generation, and a requirements/design document convention.",
+    "zh": "旧对话在窗口塞满前由侧模型自动折成短摘要（折叠账本写在磁盘上、重启不丢、宿主压缩后自动重锚），长会话不再越聊越贵——一个真实整天的会话：6 次折叠换掉 209 条旧消息，模型实际背着的上下文始终停在几万 token。会话模型自己给子任务选模型，六个派发池（轻量/机械/主力/高难/多模态/复审）；也可以选「自动（意图识别）」，小分类模型逐条决定交给谁，置信度不足不切换、护住提示词缓存。三条水位线到顶自动四步交接（fork 备份、交接文档、压缩、唤醒续跑），跑着的子智能体不丢；/ctx-pause、/ctx-resume、/ctx-handover 随时手动接管。可选 Agent Teams 模式带来常驻队友与共享任务板；/vision 让纯文本模型看图；分级验证给大改动配 tester 和独立复审。设置界面、README 与语言偏好覆盖同一套 11 种语言。内置三个技能：MySQL/Redis 只读核验、commit 文案生成、需求与设计文档规范。"
    },
    "repository": {
     "url": "https://github.com/mrzturn/dsh-switchman"
    },
    "versions": [
     {
-     "version": "1.8.1",
-     "publishTimestamp": 1793007265,
+     "version": "1.9.0",
+     "publishTimestamp": 1793720528,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106870,8 +106934,8 @@
    },
    "versions": [
     {
-     "version": "0.4.0",
-     "publishTimestamp": 1791800262,
+     "version": "0.4.1",
+     "publishTimestamp": 1793681401,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106899,8 +106963,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793377434,
+     "version": "0.2.3",
+     "publishTimestamp": 1793773992,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -106989,8 +107053,8 @@
    },
    "versions": [
     {
-     "version": "0.5.16",
-     "publishTimestamp": 1793538440,
+     "version": "0.5.17",
+     "publishTimestamp": 1793777649,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -107050,8 +107114,8 @@
    },
    "versions": [
     {
-     "version": "0.1.55",
-     "publishTimestamp": 1793683222,
+     "version": "0.1.66",
+     "publishTimestamp": 1793723593,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -107651,16 +107715,16 @@
    "homepage": "https://github.com/chen731215-dev/dsh-tavern-v2",
    "author": "chen731215-dev",
    "description": {
-    "en": "Tavern management panel for DeepSeek Harness: character cards, worldbooks and presets with per-session isolation, memory summaries, a character relationship web, one-click plot options and an NSFW mode. The full experience also needs the companion plugins dsh-muv-engine and dsh-muv-table, which render the status bar, the plot options and the variable tables.",
-    "zh": "酒馆管理面板：多角色卡、多世界书、多预设与会话级隔离，记忆总结、角色关系网、剧情选项一键发送，另有 NSFW 模式。完整效果需同时安装伴生插件 dsh-muv-engine 与 dsh-muv-table，用于渲染状态栏、剧情选项与变量表格。"
+    "en": "Tavern management panel for DeepSeek Harness: character cards, worldbooks and presets with per-session isolation, memory summaries, a character relationship web, one-click plot options and an NSFW mode. The full experience also needs the companion plugins dsh-muv-engine and dsh-muv-table, which render the status bar, the plot options and the variable tables. Card-provided status bars, variable folds and option cards now render inside a sandboxed iframe, so card styles no longer leak into the host UI.",
+    "zh": "酒馆管理面板：多角色卡、多世界书、多预设与会话级隔离，记忆总结、角色关系网、剧情选项一键发送，另有 NSFW 模式。完整效果需同时安装伴生插件 dsh-muv-engine 与 dsh-muv-table，用于渲染状态栏、剧情选项与变量表格。角色卡自带的状态栏 / 变量折叠 / 选项卡片在沙盒 iframe 中渲染，卡内样式不再外溢到宿主界面。"
    },
    "repository": {
     "url": "https://github.com/chen731215-dev/dsh-tavern-v2"
    },
    "versions": [
     {
-     "version": "2.7.27",
-     "publishTimestamp": 1793639454,
+     "version": "2.8.1",
+     "publishTimestamp": 1793728503,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -107817,34 +107881,6 @@
     "sortKeys": {
      "stars": 3,
      "downloads": 1205
-    }
-   }
-  },
-  {
-   "name": "dsh-team-dev",
-   "homepage": "https://github.com/li906912102/dsh-team-dev",
-   "author": "li906912102",
-   "description": {
-    "en": "Per-turn tool-call step budget for Agent Teams teammates, shipped together with the team-dev and team-boot skills.",
-    "zh": "为 Agent Teams 的 teammate 提供按回合的工具调用步数预算，并随包提供 team-dev 与 team-boot 技能。"
-   },
-   "repository": {
-    "url": "https://github.com/li906912102/dsh-team-dev"
-   },
-   "versions": [
-    {
-     "version": "0.1.1",
-     "publishTimestamp": 1793625502,
-     "source": {
-      "type": "npm",
-      "registry": "https://registry.npmmirror.com"
-     }
-    }
-   ],
-   "metadata": {
-    "category": "dev",
-    "sortKeys": {
-     "stars": 0
     }
    }
   },
@@ -108479,8 +108515,8 @@
    },
    "versions": [
     {
-     "version": "1.45.0",
-     "publishTimestamp": 1793654110,
+     "version": "1.47.0",
+     "publishTimestamp": 1793747443,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -109138,8 +109174,8 @@
    "homepage": "https://github.com/ZHOUcourier/dsh-theme-whalegirl",
    "author": "ZHOUcourier",
    "description": {
-    "en": "Whale Girl light theme for the DSH Web UI. This release fixes the settings entry, conversation paper and sidebar issues, and adds a conversation-only paper control; native --dsw-* token remap, a light paper layer and adjustable glass/wallpaper. Visual identity: 溟月 by 上善无形 → DeepSeek maid ver. by ZipZipPipe; artwork CC BY-NC-SA 4.0, code MIT.",
-    "zh": "面向 DSH Web UI 的鲸鱼娘亮色主题。本次集中修正了设置入口、对话纸面与侧栏等问题，并新增独立的对话纸面控制；原生 --dsw-* 令牌重映射，轻纸面衬环境壁纸，玻璃/壁纸可调。视觉定型：溟月（上善无形）→ DeepSeek 女仆装（ZipZipPipe）；插画 CC BY-NC-SA 4.0，代码 MIT。"
+    "en": "Whale Girl light theme for the DSH Web UI, ported from a DreamSkin skin package: a full native --dsw-* token remap, the artwork as an ambient wallpaper behind a single light paper layer, and live controls for glass strength, conversation-only paper, wallpaper veil/focus/zoom and the composer focus glow, with a bilingual settings form on the installed-package page. Visual identity: 溟月 by 上善无形 → DeepSeek maid ver. by ZipZipPipe; artwork CC BY-NC-SA 4.0, code MIT.",
+    "zh": "移植自 DreamSkin 皮肤包的 DSH Web UI 鲸鱼娘亮色主题：完整重映射原生 --dsw-* 令牌，插画作为环境壁纸衬在单层轻纸面之后，玻璃强度、对话区独立纸面、壁纸遮罩/焦点/缩放与输入框聚焦光晕均可实时调节，设置表单以中英双语呈现在已安装插件详情页。视觉定型：溟月（上善无形）→ DeepSeek 女仆装（ZipZipPipe）；插画 CC BY-NC-SA 4.0，代码 MIT。"
    },
    "repository": {
     "url": "https://github.com/ZHOUcourier/dsh-theme-whalegirl"
@@ -109294,8 +109330,8 @@
    },
    "versions": [
     {
-     "version": "1.2.18",
-     "publishTimestamp": 1793685611,
+     "version": "1.2.20",
+     "publishTimestamp": 1793788774,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -109587,8 +109623,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793538019,
+     "version": "0.2.3",
+     "publishTimestamp": 1793716841,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -109753,8 +109789,8 @@
    "homepage": "https://github.com/zdt3476/dsh-tide-theme",
    "author": "zdt3476",
    "description": {
-    "en": "Tide Glass — ice-blue glass theme for DeepSeek Harness, plus UI extras: a single-line status HUD with a usage board, per-turn subagent topology cards, sidebar archive tabs with type-to-filter, model and reasoning-effort controls under the composer, and per-turn duration. One master switch controls whether the HUD, usage board and topology wear the plugin's glass material or fall back to native DSH surfaces; the theme layers over the official light/dark palettes rather than replacing them. npm: dsh-tide-theme.",
-    "zh": "潮汐玻璃——给 DeepSeek Harness 的冰蓝玻璃主题，附带一组界面增强：单行状态 HUD 与用量看板、按回合绘制的子代理委派图、侧栏归档分页与实时筛选、输入框下方的模型/思考等级控件、每轮回答耗时。一个总开关控制 HUD、用量看板与委派图是否套用插件的玻璃材质，关闭后完整回落到 DSH 原生表面；主题叠在官方明暗配色之上而非另开一套配色。npm: dsh-tide-theme。"
+    "en": "Deep-sea tidal-blue theme for the DeepSeek Harness Web client with a single accent color and matte (non-glass) surfaces in light and dark modes. Same-token UI additions: a single-line dock HUD reading real session projections (context usage vs. window, TPS, cache-hit rate, elapsed time), per-turn subagent delegation cards showing token usage and an optional cost estimate from OpenRouter public prices, sidebar pagination with pinned sections and type-to-filter, and model / reasoning-effort / permission controls under the composer. Each addition can be toggled in the plugin settings.",
+    "zh": "给 DeepSeek Harness Web 的深海潮汐蓝主题：单一强调色、磨砂（非玻璃）材质，明暗双态一致。同套令牌下的界面增强：单行底栏 HUD（读取真实会话投影的上下文占用与上限、TPS、缓存命中率、耗时）、按回合绘制的子代理委派卡片（显示 token 用量，并可附上按 OpenRouter 公开单价估算的金额）、侧栏分页与置顶小节加实时筛选、输入框下方的模型/思考等级/权限控件，每项均可在插件设置中单独开关。"
    },
    "repository": {
     "url": "https://github.com/zdt3476/dsh-tide-theme"
@@ -109821,8 +109857,8 @@
    },
    "versions": [
     {
-     "version": "1.32.2",
-     "publishTimestamp": 1793530828,
+     "version": "1.34.0",
+     "publishTimestamp": 1793708140,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -110462,8 +110498,8 @@
    },
    "versions": [
     {
-     "version": "1.1.1",
-     "publishTimestamp": 1793617397,
+     "version": "1.1.2",
+     "publishTimestamp": 1793711085,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -111825,8 +111861,8 @@
    },
    "versions": [
     {
-     "version": "2.1.0",
-     "publishTimestamp": 1793447292,
+     "version": "2.7.0",
+     "publishTimestamp": 1793717364,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -112231,8 +112267,8 @@
    },
    "versions": [
     {
-     "version": "0.3.0",
-     "publishTimestamp": 1793372300,
+     "version": "0.3.1",
+     "publishTimestamp": 1793717034,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -112318,8 +112354,8 @@
    },
    "versions": [
     {
-     "version": "2.1.1",
-     "publishTimestamp": 1793633714,
+     "version": "2.1.3",
+     "publishTimestamp": 1793777628,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -112429,8 +112465,8 @@
    "homepage": "https://github.com/Yuanqs-pine/DSH-Transparent-Frosted",
    "author": "Yuanqs-pine",
    "description": {
-    "en": "(UI enhancement) Frosted-glass background for the whole app: one slider blends from a genuinely blurred, milky frost to a fully transparent page, and every region, control and expanded page moves as a single sheet painted on body::before; the settings page has its own independent slider, and an optional whale particle overlay reacts to the pointer. Best in the desktop app, where the whole window becomes transparent and reveals your own wallpaper; in a browser the plugin paints its own dark backdrop instead. Compatibility: DSH < 0.2.1-rc.5 — from 0.2.1-rc.5 the Windows desktop window is no longer transparent, so this build renders a black backdrop there; the web build and macOS are unaffected.",
-    "zh": "（UI 增强）整页磨砂背景：一条滑杆从真实模糊的磨砂过渡到完全透明，所有区域、组件与展开面板作为画在 body::before 上的同一张纸一起变化；设置页有独立滑杆，另有可选的鲸鱼粒子图层，随鼠标推开与拖动。桌面端效果最佳：整个窗口透明后直接透出你自己的桌面壁纸；浏览器里没有壁纸可透，插件会自绘一层深色背景。兼容性：适用于 DSH < 0.2.1-rc.5——Windows 桌面端自 0.2.1-rc.5 起主窗口不再透明，本版在其上背景会显示为黑色；Web 端与 macOS 不受影响。"
+    "en": "(UI enhancement) Frosted-glass background for the whole app: one slider blends from a genuinely blurred, milky frost to a fully transparent page, and every region, control and expanded page moves as a single sheet painted on body::before; the settings page has its own independent slider, and an optional whale particle overlay reacts to the pointer. In a browser the plugin paints its own dark backdrop behind the frost. On the desktop the effect is painted on the app window itself: the dsh Windows window has never been transparent (only macOS gets a vibrancy window), so on Windows the page shows the window background instead of your wallpaper, while macOS keeps the native transparent window. Works on every dsh version (checked up to 0.2.2-alpha.3).",
+    "zh": "（UI 增强）整页磨砂背景：一条滑杆从真实模糊的磨砂过渡到完全透明，所有区域、组件与展开面板作为画在 body::before 上的同一张纸一起变化；设置页有独立滑杆，另有可选的鲸鱼粒子图层，随鼠标推开与拖动。浏览器里插件会自绘一层深色背景垫在磨砂之下。桌面端的效果直接画在应用窗口上：dsh 的 Windows 主窗口历来不透明（只有 macOS 才有 vibrancy 透明窗口），所以 Windows 上看到的是窗口自身的底色而不是你的壁纸，macOS 则仍是原生透明窗口。适用于所有 dsh 版本（已核对到 0.2.2-alpha.3）。"
    },
    "repository": {
     "url": "https://github.com/Yuanqs-pine/DSH-Transparent-Frosted"
@@ -113771,8 +113807,8 @@
    },
    "versions": [
     {
-     "version": "0.20.3",
-     "publishTimestamp": 1791870277,
+     "version": "0.21.0",
+     "publishTimestamp": 1793777672,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -114264,8 +114300,8 @@
    },
    "versions": [
     {
-     "version": "1.17.2",
-     "publishTimestamp": 1793629972,
+     "version": "1.17.3",
+     "publishTimestamp": 1793764840,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -114905,8 +114941,8 @@
    },
    "versions": [
     {
-     "version": "0.4.12",
-     "publishTimestamp": 1793588764,
+     "version": "0.4.13",
+     "publishTimestamp": 1793762860,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -115021,8 +115057,8 @@
    },
    "versions": [
     {
-     "version": "0.2.0",
-     "publishTimestamp": 1793222271,
+     "version": "0.2.2",
+     "publishTimestamp": 1793781152,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -115253,8 +115289,8 @@
    },
    "versions": [
     {
-     "version": "0.15.0",
-     "publishTimestamp": 1793679126,
+     "version": "0.17.0",
+     "publishTimestamp": 1793788096,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -115633,8 +115669,8 @@
    },
    "versions": [
     {
-     "version": "0.1.5",
-     "publishTimestamp": 1792981827,
+     "version": "0.1.6",
+     "publishTimestamp": 1793717176,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -115662,8 +115698,8 @@
    },
    "versions": [
     {
-     "version": "0.6.5",
-     "publishTimestamp": 1793680064,
+     "version": "0.6.6",
+     "publishTimestamp": 1793731287,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -116332,8 +116368,8 @@
    },
    "versions": [
     {
-     "version": "0.5.4",
-     "publishTimestamp": 1793362424,
+     "version": "0.5.5",
+     "publishTimestamp": 1793714267,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -116970,8 +117006,8 @@
    },
    "versions": [
     {
-     "version": "0.26.0",
-     "publishTimestamp": 1793687628,
+     "version": "0.27.0",
+     "publishTimestamp": 1793784819,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -117318,8 +117354,8 @@
    },
    "versions": [
     {
-     "version": "0.9.0",
-     "publishTimestamp": 1793684816,
+     "version": "0.9.1",
+     "publishTimestamp": 1793755163,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -118354,16 +118390,16 @@
    "homepage": "https://github.com/GaoHu1997/dsh-webdav",
    "author": "GaoHu1997",
    "description": {
-    "en": "Keep a DSH profile identical across machines through any WebDAV server. The plugin collects the five parts that make up a setup — models (the llm-pi-ai line of cordis.patch.yml), defaults (the agent-default-model line), patch (the remaining loader lines), plugins (package.json dependencies plus dsh.profile.bundles) and dirs (extra absolute-path directories picked in the panel, carried whole and restored to the same path, add-only, at most 5 with 2000 files / 8 MiB each) — encrypts them on this machine with a passphrase (AES-256-GCM, PBKDF2-SHA256 at 600000 iterations) and uploads one ciphertext file to <address>/dsh-webdav/dsh-profile.prop, so the server only ever holds the sealed copy (the older dsh-profile.dshsync name is still read). Merging is per part and three-way against the last synced baseline; a conflict keeps the newer copy and archives the losing one under sync/ (latest 5 per tag), every overwrite is sealed beforehand, and deletions propagate except in the plugins part, on the first sync, and in the dirs part, where dropping a directory on one machine only stops syncing it there and never deletes its files. Uploads carry ETag If-Match and If-None-Match so a concurrent change is refused instead of being clobbered. Sync runs on demand or on a 3/15/30/60 minute timer from a settings panel, and an optional local forwarder (off by default, loopback-only) re-serves the same target with locally generated credentials, rewritten PROPFIND hrefs and .prop aliases for extensionless resources. The local state lives in <profileDir>/.dsh-webdav-sync/ (sync.json is written 0600 and holds the WebDAV password and the passphrase).",
-    "zh": "通过任意 WebDAV 服务让一台机器上的 DSH profile 与其他机器保持一致。插件收集构成一套配置的五份内容——models（cordis.patch.yml 里的 llm-pi-ai 行）、defaults（agent-default-model 行）、patch（其余 loader 行）、plugins（package.json 的 dependencies 加 dsh.profile.bundles）与 dirs（在面板里挑选的 profile 之外绝对路径目录，连文件整体携带、恢复时写回同一路径，只增不减，最多 5 个、每个 2000 个文件 / 8 MiB）——在本机用口令加密（AES-256-GCM，PBKDF2-SHA256 600000 轮）后上传，服务器上只有一份密文文件 <address>/dsh-webdav/dsh-profile.prop（旧文件名 dsh-profile.dshsync 仍只读识别）。合并按份进行，并与上次同步的基线做三方合并；冲突时保留较新的一份，另一份留档到 sync/（每个 tag 保留最新 5 份），每次覆盖前先封存；删除会传播，但 plugins 份、首次同步与 dirs 份例外——在某一台机器上去掉一个附加目录只是这台不再同步它，里面的文件永不删除。上传带 ETag 的 If-Match 与 If-None-Match，并发改动会被拒绝而不是被覆盖。可从设置面板手动同步，或按 3/15/30/60 分钟定时；可选的本机转发（默认关闭，仅监听 127.0.0.1）用本机生成的账号把同一个目标重新对外提供，并重写 PROPFIND href、给无扩展名资源补 .prop 别名。本机状态在 <profileDir>/.dsh-webdav-sync/ 下（sync.json 以 0600 写入，存 WebDAV 密码与口令）。"
+    "en": "Syncs DSH model providers and models across computers through any WebDAV server: the backup is sealed with a passphrase before it leaves this machine, so a new machine opens with the same model list.",
+    "zh": "通过任意 WebDAV 服务在多台电脑之间同步 DSH 的模型供应商与模型：备份离开本机之前先用口令封好，新机器打开就是同一份模型清单。"
    },
    "repository": {
     "url": "https://github.com/GaoHu1997/dsh-webdav"
    },
    "versions": [
     {
-     "version": "1.2.8",
-     "publishTimestamp": 1793675982,
+     "version": "1.3.0",
+     "publishTimestamp": 1793720427,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -118371,7 +118407,7 @@
     }
    ],
    "metadata": {
-    "category": "dev",
+    "category": "model",
     "sortKeys": {
      "stars": 0,
      "downloads": 2500
@@ -118507,8 +118543,8 @@
    },
    "versions": [
     {
-     "version": "0.15.0",
-     "publishTimestamp": 1793599583,
+     "version": "0.16.0",
+     "publishTimestamp": 1793755115,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -118858,8 +118894,8 @@
    },
    "versions": [
     {
-     "version": "0.4.1",
-     "publishTimestamp": 1789471416,
+     "version": "0.5.0",
+     "publishTimestamp": 1793736770,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -119441,8 +119477,8 @@
    },
    "versions": [
     {
-     "version": "0.2.3",
-     "publishTimestamp": 1793143831,
+     "version": "0.2.5",
+     "publishTimestamp": 1793706332,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -119614,8 +119650,8 @@
    },
    "versions": [
     {
-     "version": "0.2.2",
-     "publishTimestamp": 1793509764,
+     "version": "0.2.3",
+     "publishTimestamp": 1793721294,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -120339,8 +120375,8 @@
    },
    "versions": [
     {
-     "version": "0.8.8",
-     "publishTimestamp": 1792732961,
+     "version": "0.8.11",
+     "publishTimestamp": 1793436304,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -120368,8 +120404,8 @@
    },
    "versions": [
     {
-     "version": "0.5.9",
-     "publishTimestamp": 1793694667,
+     "version": "0.8.1",
+     "publishTimestamp": 1793783782,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -120896,8 +120932,8 @@
    },
    "versions": [
     {
-     "version": "1.3.9",
-     "publishTimestamp": 1793552904,
+     "version": "1.3.10",
+     "publishTimestamp": 1793721972,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -121149,16 +121185,16 @@
    "homepage": "https://github.com/chyxhtc/dsh-ws-recency",
    "author": "chyxhtc",
    "description": {
-    "en": "Sidebar session management: workspace groups sorted by latest activity, history older than N days folded behind one control, a global pinned section for native pins, manual \"needs follow-up\" marks, and session delete into a recoverable trash.",
-    "zh": "DSH 侧栏会话管理：工作区分组按最近活跃排序，超过 N 天的历史折叠成一个「展开历史」控件，原生置顶会话汇总到顶部置顶区，可手动标记「需要跟进」，删除会话移入可恢复的回收站。"
+    "en": "Sidebar session management for DeepSeek Harness: workspace groups sorted by latest activity, history folded behind one control, a global pinned section, running/unread/follow-up marks, delete into a restorable trash whose panel also manages archived sessions, per-session token statistics split by tool (arguments vs results), moving a session to another workspace, and a scan that re-attaches sessions missing from every workspace.",
+    "zh": "DSH 侧栏会话管理：工作区分组按最近活跃排序，过期历史折叠成一个「展开历史」控件，所有置顶会话汇总到顶部置顶区，运行中/未读/需跟进三色标记，删除会话移入可恢复的回收站（面板同时管理已归档会话），按工具拆分、参数与结果分开的 token 消耗统计，把会话移动到另一个工作区，以及一键把游离会话重新挂回工作区。"
    },
    "repository": {
     "url": "https://github.com/chyxhtc/dsh-ws-recency"
    },
    "versions": [
     {
-     "version": "0.24.1",
-     "publishTimestamp": 1793696241,
+     "version": "0.25.0",
+     "publishTimestamp": 1793783789,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -122207,8 +122243,8 @@
    },
    "versions": [
     {
-     "version": "2.3.7",
-     "publishTimestamp": 1793620056,
+     "version": "2.3.8",
+     "publishTimestamp": 1793707318,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -122228,8 +122264,8 @@
    "homepage": "https://github.com/big-li99/dsh-zentao-panel",
    "author": "big-li99",
    "description": {
-    "en": "ZenTao work panel in the DSH left sidebar: lists tasks, bugs and stories assigned to you (web-login protocol, so instances where the RESTful v2 API is unavailable are supported — verified on ZenTao 18.13 open-source) with search, smart sort, overdue / due-today filters and a flow-board view; opens a new chat pre-filled with the card's description, recent comments and screenshots (or a blank one), or dispatches it to a new background session with workspace, model, reasoning-effort and optional-instruction selection (single or multi-select batch), turns screenshots inside ticket descriptions into real image attachments, reads back the linked session's latest reply once a card is done, and tracks each card with live running / needs-decision / done status plus manual overrides and a manually-marked finished state. Multi-account; read-only, no writes back to ZenTao.",
-    "zh": "DSH 左侧栏禅道工作面板：列出指派给你的任务、Bug 与需求（走网页登录协议，RESTful v2 API 不可用的实例也能用，已在禅道 18.13 开源版实测），支持搜索、智能排序、逾期/今天到期筛选与流程看板；可新建对话并自动带入任务背景（描述、最近动态与截图，也可只建空白会话），或下发到新后台会话（可选工作区、模型、思考强度与附加指令，支持多选批量），工单里的截图会转成真实图片附件，已完成的卡片可回读关联会话的最新回复，卡片实时显示 处理中/等你决策/已完成 状态并支持手动修正与「已结束」终态。支持多账号；只读，不回写禅道。"
+    "en": "ZenTao work panel in the DSH left sidebar: lists tasks, bugs and stories assigned to you (web-login protocol, so instances where the RESTful v2 API is unavailable are supported — verified on ZenTao 18.13 open-source) with search, smart sort, overdue / due-today filters and a flow-board view; opens a new chat pre-filled with the card's description, recent comments and screenshots (or a blank one), or dispatches it to a new background session with workspace, model, reasoning-effort and optional-instruction selection (single or multi-select batch), turns screenshots inside ticket descriptions into real image attachments, reads back the linked session's latest reply once a card is done and lets you answer the agent from the panel while it waits on you, and tracks each card with live running / needs-decision / done status plus manual overrides and a manually-marked finished state, with a deep link to ZenTao's finish / resolve page. Multi-account; read-only, no writes back to ZenTao.",
+    "zh": "DSH 左侧栏禅道工作面板：列出指派给你的任务、Bug 与需求（走网页登录协议，RESTful v2 API 不可用的实例也能用，已在禅道 18.13 开源版实测），支持搜索、智能排序、逾期/今天到期筛选与流程看板；可新建对话并自动带入任务背景（描述、最近动态与截图，也可只建空白会话），或下发到新后台会话（可选工作区、模型、思考强度与附加指令，支持多选批量），工单里的截图会转成真实图片附件，已完成的卡片可回读关联会话的最新回复，等你决策时能在面板里直接答复 agent，卡片实时显示 处理中/等你决策/已完成 状态并支持手动修正与「已结束」终态，完成后可跳转禅道的完成/解决页收尾。支持多账号；只读，不回写禅道。"
    },
    "repository": {
     "url": "https://github.com/big-li99/dsh-zentao-panel"
@@ -122584,8 +122620,8 @@
    },
    "versions": [
     {
-     "version": "1.73.9",
-     "publishTimestamp": 1793645854,
+     "version": "1.73.10",
+     "publishTimestamp": 1793739051,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -122671,8 +122707,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0",
-     "publishTimestamp": 1793624565,
+     "version": "0.7.1",
+     "publishTimestamp": 1793786006,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -122700,8 +122736,8 @@
    },
    "versions": [
     {
-     "version": "0.1.42",
-     "publishTimestamp": 1793679025,
+     "version": "0.1.44",
+     "publishTimestamp": 1793714466,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -123573,8 +123609,8 @@
    },
    "versions": [
     {
-     "version": "2.3.6",
-     "publishTimestamp": 1793438475,
+     "version": "2.4.0",
+     "publishTimestamp": 1793757243,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -123924,8 +123960,8 @@
    },
    "versions": [
     {
-     "version": "0.18.2",
-     "publishTimestamp": 1793018353,
+     "version": "0.20.0",
+     "publishTimestamp": 1793717946,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -124098,8 +124134,8 @@
    },
    "versions": [
     {
-     "version": "0.11.0",
-     "publishTimestamp": 1793631037,
+     "version": "0.12.13",
+     "publishTimestamp": 1793726222,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -124127,8 +124163,8 @@
    },
    "versions": [
     {
-     "version": "0.1.10",
-     "publishTimestamp": 1793682671,
+     "version": "0.1.11",
+     "publishTimestamp": 1793761090,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -124243,8 +124279,8 @@
    },
    "versions": [
     {
-     "version": "0.8.2",
-     "publishTimestamp": 1792041439,
+     "version": "0.8.13",
+     "publishTimestamp": 1793787308,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -124446,8 +124482,8 @@
    },
    "versions": [
     {
-     "version": "0.1.19",
-     "publishTimestamp": 1793694000,
+     "version": "0.1.21",
+     "publishTimestamp": 1793764407,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -124910,8 +124946,8 @@
    },
    "versions": [
     {
-     "version": "0.2.4",
-     "publishTimestamp": 1793685924,
+     "version": "0.2.5",
+     "publishTimestamp": 1793785951,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -125287,8 +125323,8 @@
    },
    "versions": [
     {
-     "version": "2.1.22",
-     "publishTimestamp": 1793508605,
+     "version": "2.3.1",
+     "publishTimestamp": 1793711751,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -125606,8 +125642,8 @@
    },
    "versions": [
     {
-     "version": "0.3.38",
-     "publishTimestamp": 1793699668,
+     "version": "0.3.40",
+     "publishTimestamp": 1793773439,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -125693,8 +125729,8 @@
    },
    "versions": [
     {
-     "version": "0.3.1",
-     "publishTimestamp": 1787766695,
+     "version": "0.3.2",
+     "publishTimestamp": 1793675727,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
@@ -125975,8 +126011,8 @@
    "homepage": "https://github.com/Ultmebius/universal-plugin-hub",
    "author": "Ultmebius",
    "description": {
-    "en": "A visual plugin marketplace for DSH: browse multiple Git sources, install plugins with one click, and wire skills, subagents, MCP connectors, LSP servers and hooks into the harness automatically.",
-    "zh": "DSH 的可视化插件市场：多源浏览、一键安装，技能、子代理、MCP 连接器、LSP 服务器与 hooks 自动接入。"
+    "en": "Use plugins from ecosystems such as Claude Code and Codex in DSH: add Git plugin sources and marketplaces, upload plugins and skills, add MCP servers, automatically discover and toggle local skills, and manage plugins, skills and MCP in one place, including plugin-provided subagents, Hooks and LSP.",
+    "zh": "在 DSH 中使用 Claude Code、Codex 等软件生态的插件，一站式管理插件、Skills 与 MCP。支持添加 Git 插件源和 marketplace、上传插件和 Skills、添加 MCP 服务器，自动扫描并开关本地 Skills，接入插件提供的子代理、MCP、Hooks 与 LSP。"
    },
    "repository": {
     "url": "https://github.com/Ultmebius/universal-plugin-hub"
@@ -126244,8 +126280,8 @@
    },
    "versions": [
     {
-     "version": "0.6.0",
-     "publishTimestamp": 1793583577,
+     "version": "0.6.1",
+     "publishTimestamp": 1793756880,
      "source": {
       "type": "npm",
       "registry": "https://registry.npmmirror.com"
